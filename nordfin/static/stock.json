@@ -1,0 +1,4502 @@
+[
+  {
+    "﻿No.": "1",
+    "Symbol": "AAPL",
+    "Company Name": "Apple Inc.",
+    "Market Cap": "2.70777E+12",
+    "Stock Price": "168.49",
+    "% Change": "-0.443",
+    "Revenue": "3.87542E+11"
+  },
+  {
+    "﻿No.": "2",
+    "Symbol": "MSFT",
+    "Company Name": "Microsoft Corporation",
+    "Market Cap": "2.14056E+12",
+    "Stock Price": "287.02",
+    "% Change": "-0.74",
+    "Revenue": "1.9827E+11"
+  },
+  {
+    "﻿No.": "3",
+    "Symbol": "GOOGL",
+    "Company Name": "Alphabet, Inc.",
+    "Market Cap": "1.55539E+12",
+    "Stock Price": "118.84",
+    "% Change": "-0.718",
+    "Revenue": "2.78139E+11"
+  },
+  {
+    "﻿No.": "4",
+    "Symbol": "AMZN",
+    "Company Name": "Amazon.com, Inc.",
+    "Market Cap": "1.43278E+12",
+    "Stock Price": "140.64",
+    "% Change": "-1.43",
+    "Revenue": "4.85902E+11"
+  },
+  {
+    "﻿No.": "5",
+    "Symbol": "TSLA",
+    "Company Name": "Tesla, Inc.",
+    "Market Cap": "8.98147E+11",
+    "Stock Price": "859.89",
+    "% Change": "-2.625",
+    "Revenue": "67166000000"
+  },
+  {
+    "﻿No.": "6",
+    "Symbol": "BRK.B",
+    "Company Name": "Berkshire Hathaway Inc.",
+    "Market Cap": "6.53022E+11",
+    "Stock Price": "296.51",
+    "% Change": "0.474",
+    "Revenue": "2.65922E+11"
+  },
+  {
+    "﻿No.": "7",
+    "Symbol": "UNH",
+    "Company Name": "UnitedHealth Group Incorporated",
+    "Market Cap": "4.98428E+11",
+    "Stock Price": "532.86",
+    "% Change": "-0.904",
+    "Revenue": "3.06561E+11"
+  },
+  {
+    "﻿No.": "8",
+    "Symbol": "META",
+    "Company Name": "Meta Platforms, Inc.",
+    "Market Cap": "4.77013E+11",
+    "Stock Price": "177.49",
+    "% Change": "-0.477",
+    "Revenue": "1.19411E+11"
+  },
+  {
+    "﻿No.": "9",
+    "Symbol": "TSM",
+    "Company Name": "Taiwan Semiconductor Manufacturing Company Limited",
+    "Market Cap": "4.64251E+11",
+    "Stock Price": "89.52",
+    "% Change": "0.959",
+    "Revenue": "59793752299"
+  },
+  {
+    "﻿No.": "10",
+    "Symbol": "NVDA",
+    "Company Name": "NVIDIA Corporation",
+    "Market Cap": "4.47115E+11",
+    "Stock Price": "179.42",
+    "% Change": "-0.856",
+    "Revenue": "29541000000"
+  },
+  {
+    "﻿No.": "11",
+    "Symbol": "V",
+    "Company Name": "Visa Inc.",
+    "Market Cap": "4.44832E+11",
+    "Stock Price": "211.08",
+    "% Change": "-0.305",
+    "Revenue": "28082000000"
+  },
+  {
+    "﻿No.": "12",
+    "Symbol": "JNJ",
+    "Company Name": "Johnson & Johnson",
+    "Market Cap": "4.39441E+11",
+    "Stock Price": "167.14",
+    "% Change": "-2.068",
+    "Revenue": "95588000000"
+  },
+  {
+    "﻿No.": "13",
+    "Symbol": "XOM",
+    "Company Name": "Exxon Mobil Corporation",
+    "Market Cap": "3.88382E+11",
+    "Stock Price": "93.19",
+    "% Change": "2.893",
+    "Revenue": "3.64932E+11"
+  },
+  {
+    "﻿No.": "14",
+    "Symbol": "WMT",
+    "Company Name": "Walmart, Inc.",
+    "Market Cap": "3.55856E+11",
+    "Stock Price": "129.82",
+    "% Change": "0.964",
+    "Revenue": "5.76013E+11"
+  },
+  {
+    "﻿No.": "15",
+    "Symbol": "JPM",
+    "Company Name": "JPMorgan Chase & Co.",
+    "Market Cap": "3.52319E+11",
+    "Stock Price": "120.14",
+    "% Change": "1.478",
+    "Revenue": "1.20336E+11"
+  },
+  {
+    "﻿No.": "16",
+    "Symbol": "PG",
+    "Company Name": "The Procter & Gamble Company",
+    "Market Cap": "3.47106E+11",
+    "Stock Price": "145.26",
+    "% Change": "-0.711",
+    "Revenue": "80187000000"
+  },
+  {
+    "﻿No.": "17",
+    "Symbol": "MA",
+    "Company Name": "Mastercard Incorporated",
+    "Market Cap": "3.38792E+11",
+    "Stock Price": "350.58",
+    "% Change": "-0.792",
+    "Revenue": "20865000000"
+  },
+  {
+    "﻿No.": "18",
+    "Symbol": "HD",
+    "Company Name": "The Home Depot, Inc.",
+    "Market Cap": "3.19312E+11",
+    "Stock Price": "310.69",
+    "% Change": "-0.286",
+    "Revenue": "1.52565E+11"
+  },
+  {
+    "﻿No.": "19",
+    "Symbol": "CVX",
+    "Company Name": "Chevron Corporation",
+    "Market Cap": "3.12445E+11",
+    "Stock Price": "159.62",
+    "% Change": "2.439",
+    "Revenue": "2.15974E+11"
+  },
+  {
+    "﻿No.": "20",
+    "Symbol": "BAC",
+    "Company Name": "Bank of America Corporation",
+    "Market Cap": "2.88545E+11",
+    "Stock Price": "35.91",
+    "% Change": "2.395",
+    "Revenue": "90742000000"
+  },
+  {
+    "﻿No.": "21",
+    "Symbol": "LLY",
+    "Company Name": "Eli Lilly and Company",
+    "Market Cap": "2.86164E+11",
+    "Stock Price": "301.17",
+    "% Change": "-1.129",
+    "Revenue": "29070700000"
+  },
+  {
+    "﻿No.": "22",
+    "Symbol": "KO",
+    "Company Name": "The Coca-Cola Company",
+    "Market Cap": "2.73403E+11",
+    "Stock Price": "63.22",
+    "% Change": "-0.676",
+    "Revenue": "41322000000"
+  },
+  {
+    "﻿No.": "23",
+    "Symbol": "PFE",
+    "Company Name": "Pfizer Inc.",
+    "Market Cap": "2.7095E+11",
+    "Stock Price": "48.29",
+    "% Change": "-3.323",
+    "Revenue": "92367000000"
+  },
+  {
+    "﻿No.": "24",
+    "Symbol": "BABA",
+    "Company Name": "Alibaba Group Holding Ltd",
+    "Market Cap": "2.51229E+11",
+    "Stock Price": "94.87",
+    "% Change": "2.64",
+    "Revenue": "1.27295E+11"
+  },
+  {
+    "﻿No.": "25",
+    "Symbol": "ABBV",
+    "Company Name": "AbbVie Inc.",
+    "Market Cap": "2.51212E+11",
+    "Stock Price": "142.08",
+    "% Change": "0.809",
+    "Revenue": "57349000000"
+  },
+  {
+    "﻿No.": "26",
+    "Symbol": "NVO",
+    "Company Name": "Novo Nordisk A/S",
+    "Market Cap": "2.46121E+11",
+    "Stock Price": "108.79",
+    "% Change": "1.191",
+    "Revenue": "22085814606"
+  },
+  {
+    "﻿No.": "27",
+    "Symbol": "PEP",
+    "Company Name": "PepsiCo, Inc.",
+    "Market Cap": "2.41569E+11",
+    "Stock Price": "175.04",
+    "% Change": "-0.512",
+    "Revenue": "81862000000"
+  },
+  {
+    "﻿No.": "28",
+    "Symbol": "COST",
+    "Company Name": "Costco Wholesale Corporation",
+    "Market Cap": "2.35745E+11",
+    "Stock Price": "532.2",
+    "% Change": "-1.412",
+    "Revenue": "2.17538E+11"
+  },
+  {
+    "﻿No.": "29",
+    "Symbol": "ASML",
+    "Company Name": "ASML Holding N.V.",
+    "Market Cap": "2.35392E+11",
+    "Stock Price": "562.41",
+    "% Change": "-0.643",
+    "Revenue": "20201894736"
+  },
+  {
+    "﻿No.": "30",
+    "Symbol": "TMO",
+    "Company Name": "Thermo Fisher Scientific, Inc.",
+    "Market Cap": "2.32151E+11",
+    "Stock Price": "592.54",
+    "% Change": "0.032",
+    "Revenue": "42820000000"
+  },
+  {
+    "﻿No.": "31",
+    "Symbol": "MRK",
+    "Company Name": "Merck & Co., Inc.",
+    "Market Cap": "2.25285E+11",
+    "Stock Price": "88.93",
+    "% Change": "-0.292",
+    "Revenue": "57169000000"
+  },
+  {
+    "﻿No.": "32",
+    "Symbol": "TM",
+    "Company Name": "Toyota Motor Corporation",
+    "Market Cap": "2.2146E+11",
+    "Stock Price": "158.6",
+    "% Change": "0.45",
+    "Revenue": "2.34472E+11"
+  },
+  {
+    "﻿No.": "33",
+    "Symbol": "AVGO",
+    "Company Name": "Broadcom Inc.",
+    "Market Cap": "2.20887E+11",
+    "Stock Price": "545.43",
+    "% Change": "-0.905",
+    "Revenue": "29994000000"
+  },
+  {
+    "﻿No.": "34",
+    "Symbol": "DIS",
+    "Company Name": "The Walt Disney Company",
+    "Market Cap": "2.1437E+11",
+    "Stock Price": "117.69",
+    "% Change": "4.678",
+    "Revenue": "81106000000"
+  },
+  {
+    "﻿No.": "35",
+    "Symbol": "DHR",
+    "Company Name": "Danaher Corporation",
+    "Market Cap": "2.11817E+11",
+    "Stock Price": "291.18",
+    "% Change": "0.014",
+    "Revenue": "30816000000"
+  },
+  {
+    "﻿No.": "36",
+    "Symbol": "ORCL",
+    "Company Name": "Oracle Corporation",
+    "Market Cap": "2.05626E+11",
+    "Stock Price": "77.16",
+    "% Change": "-0.49",
+    "Revenue": "42440000000"
+  },
+  {
+    "﻿No.": "37",
+    "Symbol": "ADBE",
+    "Company Name": "Adobe Inc.",
+    "Market Cap": "2.03529E+11",
+    "Stock Price": "434.89",
+    "% Change": "-0.801",
+    "Revenue": "16693000000"
+  },
+  {
+    "﻿No.": "38",
+    "Symbol": "AZN",
+    "Company Name": "AstraZeneca plc",
+    "Market Cap": "2.00349E+11",
+    "Stock Price": "64.65",
+    "% Change": "-1.8",
+    "Revenue": "44038000000"
+  },
+  {
+    "﻿No.": "39",
+    "Symbol": "ACN",
+    "Company Name": "Accenture plc",
+    "Market Cap": "1.99045E+11",
+    "Stock Price": "314.42",
+    "% Change": "-0.651",
+    "Revenue": "59589933000"
+  },
+  {
+    "﻿No.": "40",
+    "Symbol": "SHEL",
+    "Company Name": "Shell plc",
+    "Market Cap": "1.97367E+11",
+    "Stock Price": "53.93",
+    "% Change": "2.47",
+    "Revenue": "2.72657E+11"
+  },
+  {
+    "﻿No.": "41",
+    "Symbol": "ABT",
+    "Company Name": "Abbott Laboratories",
+    "Market Cap": "1.93492E+11",
+    "Stock Price": "110.49",
+    "% Change": "0.2",
+    "Revenue": "45548000000"
+  },
+  {
+    "﻿No.": "42",
+    "Symbol": "BHP",
+    "Company Name": "BHP Group Limited",
+    "Market Cap": "1.92554E+11",
+    "Stock Price": "55.35",
+    "% Change": "0.765",
+    "Revenue": "63404000000"
+  },
+  {
+    "﻿No.": "43",
+    "Symbol": "MCD",
+    "Company Name": "McDonald's Corporation",
+    "Market Cap": "1.90757E+11",
+    "Stock Price": "259.28",
+    "% Change": "-0.796",
+    "Revenue": "23594400000"
+  },
+  {
+    "﻿No.": "44",
+    "Symbol": "CSCO",
+    "Company Name": "Cisco Systems, Inc.",
+    "Market Cap": "1.9007E+11",
+    "Stock Price": "45.9",
+    "% Change": "-0.261",
+    "Revenue": "51581000000"
+  },
+  {
+    "﻿No.": "45",
+    "Symbol": "VZ",
+    "Company Name": "Verizon Communications, Inc.",
+    "Market Cap": "1.88063E+11",
+    "Stock Price": "44.78",
+    "% Change": "-0.134",
+    "Revenue": "1.34325E+11"
+  },
+  {
+    "﻿No.": "46",
+    "Symbol": "NVS",
+    "Company Name": "Novartis AG",
+    "Market Cap": "1.86803E+11",
+    "Stock Price": "85.58",
+    "% Change": "-2.116",
+    "Revenue": "52788000000"
+  },
+  {
+    "﻿No.": "47",
+    "Symbol": "CRM",
+    "Company Name": "Salesforce.com Inc",
+    "Market Cap": "1.85796E+11",
+    "Stock Price": "186.73",
+    "% Change": "-0.997",
+    "Revenue": "27940000000"
+  },
+  {
+    "﻿No.": "48",
+    "Symbol": "NEE",
+    "Company Name": "NextEra Energy, Inc.",
+    "Market Cap": "1.84804E+11",
+    "Stock Price": "89.43",
+    "% Change": "-0.39",
+    "Revenue": "17489000000"
+  },
+  {
+    "﻿No.": "49",
+    "Symbol": "TMUS",
+    "Company Name": "T-Mobile US, Inc.",
+    "Market Cap": "1.80093E+11",
+    "Stock Price": "143.61",
+    "% Change": "-0.849",
+    "Revenue": "80230000000"
+  },
+  {
+    "﻿No.": "50",
+    "Symbol": "NKE",
+    "Company Name": "Nike, Inc.",
+    "Market Cap": "1.78973E+11",
+    "Stock Price": "114.1",
+    "% Change": "0.849",
+    "Revenue": "46710000000"
+  },
+  {
+    "﻿No.": "51",
+    "Symbol": "UPS",
+    "Company Name": "United Parcel Service, Inc.",
+    "Market Cap": "1.77582E+11",
+    "Stock Price": "204.43",
+    "% Change": "1.018",
+    "Revenue": "1.00099E+11"
+  },
+  {
+    "﻿No.": "52",
+    "Symbol": "CMCSA",
+    "Company Name": "Comcast Corporation",
+    "Market Cap": "1.73882E+11",
+    "Stock Price": "39.4",
+    "% Change": "1.129",
+    "Revenue": "1.2166E+11"
+  },
+  {
+    "﻿No.": "53",
+    "Symbol": "WFC",
+    "Company Name": "Wells Fargo & Company",
+    "Market Cap": "1.71636E+11",
+    "Stock Price": "45.25",
+    "% Change": "2.075",
+    "Revenue": "74310000000"
+  },
+  {
+    "﻿No.": "54",
+    "Symbol": "TXN",
+    "Company Name": "Texas Instruments Incorporated",
+    "Market Cap": "1.66349E+11",
+    "Stock Price": "182.06",
+    "% Change": "-0.579",
+    "Revenue": "19592000000"
+  },
+  {
+    "﻿No.": "55",
+    "Symbol": "QCOM",
+    "Company Name": "Qualcomm Incorporated",
+    "Market Cap": "1.66013E+11",
+    "Stock Price": "147.83",
+    "% Change": "0.571",
+    "Revenue": "42141000000"
+  },
+  {
+    "﻿No.": "56",
+    "Symbol": "BMY",
+    "Company Name": "Bristol-Myers Squibb Company",
+    "Market Cap": "1.58991E+11",
+    "Stock Price": "74.46",
+    "% Change": "-0.534",
+    "Revenue": "47144000000"
+  },
+  {
+    "﻿No.": "57",
+    "Symbol": "AMD",
+    "Company Name": "Advanced Micro Devices, Inc.",
+    "Market Cap": "1.58397E+11",
+    "Stock Price": "98.12",
+    "% Change": "-0.939",
+    "Revenue": "21576000000"
+  },
+  {
+    "﻿No.": "58",
+    "Symbol": "MS",
+    "Company Name": "Morgan Stanley",
+    "Market Cap": "1.54858E+11",
+    "Stock Price": "90.2",
+    "% Change": "1.474",
+    "Revenue": "57210000000"
+  },
+  {
+    "﻿No.": "59",
+    "Symbol": "PM",
+    "Company Name": "Philip Morris International Inc.",
+    "Market Cap": "1.54622E+11",
+    "Stock Price": "99.47",
+    "% Change": "1.366",
+    "Revenue": "82197000000"
+  },
+  {
+    "﻿No.": "60",
+    "Symbol": "LIN",
+    "Company Name": "Linde plc",
+    "Market Cap": "1.52435E+11",
+    "Stock Price": "305.87",
+    "% Change": "-1.141",
+    "Revenue": "32634000000"
+  },
+  {
+    "﻿No.": "61",
+    "Symbol": "UNP",
+    "Company Name": "Union Pacific Corporation",
+    "Market Cap": "1.49407E+11",
+    "Stock Price": "239.25",
+    "% Change": "1.48",
+    "Revenue": "23428000000"
+  },
+  {
+    "﻿No.": "62",
+    "Symbol": "INTC",
+    "Company Name": "Intel Corporation",
+    "Market Cap": "1.46133E+11",
+    "Stock Price": "35.59",
+    "% Change": "0.622",
+    "Revenue": "73394000000"
+  },
+  {
+    "﻿No.": "63",
+    "Symbol": "RY",
+    "Company Name": "Royal Bank of Canada",
+    "Market Cap": "1.39595E+11",
+    "Stock Price": "99.34",
+    "% Change": "0.904",
+    "Revenue": "39220634920"
+  },
+  {
+    "﻿No.": "64",
+    "Symbol": "TTE",
+    "Company Name": "TotalEnergies SE",
+    "Market Cap": "1.37746E+11",
+    "Stock Price": "53.73",
+    "% Change": "2.46",
+    "Revenue": "2.32268E+11"
+  },
+  {
+    "﻿No.": "65",
+    "Symbol": "SCHW",
+    "Company Name": "The Charles Schwab Corporation",
+    "Market Cap": "1.37672E+11",
+    "Stock Price": "72.57",
+    "% Change": "4.088",
+    "Revenue": "18477000000"
+  },
+  {
+    "﻿No.": "66",
+    "Symbol": "RTX",
+    "Company Name": "Raytheon Technologies Corporation",
+    "Market Cap": "1.37537E+11",
+    "Stock Price": "93.15",
+    "% Change": "-0.289",
+    "Revenue": "65287000000"
+  },
+  {
+    "﻿No.": "67",
+    "Symbol": "CVS",
+    "Company Name": "CVS Health Corporation",
+    "Market Cap": "1.36863E+11",
+    "Stock Price": "104.25",
+    "% Change": "0.192",
+    "Revenue": "3.0786E+11"
+  },
+  {
+    "﻿No.": "68",
+    "Symbol": "INTU",
+    "Company Name": "Intuit Inc.",
+    "Market Cap": "1.3505E+11",
+    "Stock Price": "478.77",
+    "% Change": "0.142",
+    "Revenue": "12873000000"
+  },
+  {
+    "﻿No.": "69",
+    "Symbol": "HSBC",
+    "Company Name": "HSBC Holdings PLC",
+    "Market Cap": "1.34394E+11",
+    "Stock Price": "33.5",
+    "% Change": "0.631",
+    "Revenue": "63940000000"
+  },
+  {
+    "﻿No.": "70",
+    "Symbol": "HON",
+    "Company Name": "Honeywell International Inc.",
+    "Market Cap": "1.33735E+11",
+    "Stock Price": "198.51",
+    "% Change": "1.152",
+    "Revenue": "34459000000"
+  },
+  {
+    "﻿No.": "71",
+    "Symbol": "AMGN",
+    "Company Name": "Amgen Inc.",
+    "Market Cap": "1.3285E+11",
+    "Stock Price": "248.35",
+    "% Change": "-1.484",
+    "Revenue": "26384000000"
+  },
+  {
+    "﻿No.": "72",
+    "Symbol": "PTR",
+    "Company Name": "PetroChina Company Limited",
+    "Market Cap": "1.32523E+11",
+    "Stock Price": "44.94",
+    "% Change": "1.812",
+    "Revenue": "4.4403E+11"
+  },
+  {
+    "﻿No.": "73",
+    "Symbol": "LOW",
+    "Company Name": "Lowe's Companies, Inc.",
+    "Market Cap": "1.29219E+11",
+    "Stock Price": "202.18",
+    "% Change": "0.372",
+    "Revenue": "95486000000"
+  },
+  {
+    "﻿No.": "74",
+    "Symbol": "SPGI",
+    "Company Name": "S&P Global Inc.",
+    "Market Cap": "1.28788E+11",
+    "Stock Price": "386.17",
+    "% Change": "-1.788",
+    "Revenue": "9557000000"
+  },
+  {
+    "﻿No.": "75",
+    "Symbol": "T",
+    "Company Name": "AT&T, Inc.",
+    "Market Cap": "1.28553E+11",
+    "Stock Price": "18.04",
+    "% Change": "0.167",
+    "Revenue": "1.48628E+11"
+  },
+  {
+    "﻿No.": "76",
+    "Symbol": "COP",
+    "Company Name": "ConocoPhillips",
+    "Market Cap": "1.27761E+11",
+    "Stock Price": "100.36",
+    "% Change": "4.563",
+    "Revenue": "68859000000"
+  },
+  {
+    "﻿No.": "77",
+    "Symbol": "BX",
+    "Company Name": "Blackstone Inc.",
+    "Market Cap": "1.27631E+11",
+    "Stock Price": "106.01",
+    "% Change": "-1.788",
+    "Revenue": "17742422000"
+  },
+  {
+    "﻿No.": "78",
+    "Symbol": "AMT",
+    "Company Name": "American Tower Corporation",
+    "Market Cap": "1.27548E+11",
+    "Stock Price": "273.95",
+    "% Change": "-1.382",
+    "Revenue": "10234100000"
+  },
+  {
+    "﻿No.": "79",
+    "Symbol": "MDT",
+    "Company Name": "Medtronic plc.",
+    "Market Cap": "1.25596E+11",
+    "Stock Price": "94.04",
+    "% Change": "-0.138",
+    "Revenue": "31686000000"
+  },
+  {
+    "﻿No.": "80",
+    "Symbol": "UL",
+    "Company Name": "Unilever PLC",
+    "Market Cap": "1.22318E+11",
+    "Stock Price": "47.65",
+    "% Change": "-1.509",
+    "Revenue": "59237894736"
+  },
+  {
+    "﻿No.": "81",
+    "Symbol": "AXP",
+    "Company Name": "American Express Company",
+    "Market Cap": "1.22201E+11",
+    "Stock Price": "162.99",
+    "% Change": "0.339",
+    "Revenue": "47964000000"
+  },
+  {
+    "﻿No.": "82",
+    "Symbol": "EQNR",
+    "Company Name": "Equinor ASA",
+    "Market Cap": "1.20885E+11",
+    "Stock Price": "38.35",
+    "% Change": "3.008",
+    "Revenue": "90924000000"
+  },
+  {
+    "﻿No.": "83",
+    "Symbol": "TD",
+    "Company Name": "The Toronto-Dominion Bank",
+    "Market Cap": "1.2071E+11",
+    "Stock Price": "66.8",
+    "% Change": "0.754",
+    "Revenue": "35076984126"
+  },
+  {
+    "﻿No.": "84",
+    "Symbol": "HDB",
+    "Company Name": "HDFC Bank Limited",
+    "Market Cap": "1.20421E+11",
+    "Stock Price": "65",
+    "% Change": "-0.414",
+    "Revenue": "11711734908"
+  },
+  {
+    "﻿No.": "85",
+    "Symbol": "GS",
+    "Company Name": "The Goldman Sachs Group, Inc.",
+    "Market Cap": "1.20048E+11",
+    "Stock Price": "351.68",
+    "% Change": "1.084",
+    "Revenue": "51044000000"
+  },
+  {
+    "﻿No.": "86",
+    "Symbol": "IBM",
+    "Company Name": "International Business Machines Corporation",
+    "Market Cap": "1.18798E+11",
+    "Stock Price": "132.54",
+    "% Change": "0.791",
+    "Revenue": "50607000000"
+  },
+  {
+    "﻿No.": "87",
+    "Symbol": "PYPL",
+    "Company Name": "PayPal Holdings, Inc.",
+    "Market Cap": "1.14619E+11",
+    "Stock Price": "99.11",
+    "% Change": "0.202",
+    "Revenue": "26389000000"
+  },
+  {
+    "﻿No.": "88",
+    "Symbol": "ELV",
+    "Company Name": "Elevance Health, Inc.",
+    "Market Cap": "1.14507E+11",
+    "Stock Price": "477.11",
+    "% Change": "-0.877",
+    "Revenue": "1.4913E+11"
+  },
+  {
+    "﻿No.": "89",
+    "Symbol": "LMT",
+    "Company Name": "Lockheed Martin Corporation",
+    "Market Cap": "1.1371E+11",
+    "Stock Price": "428.85",
+    "% Change": "-0.265",
+    "Revenue": "64167000000"
+  },
+  {
+    "﻿No.": "90",
+    "Symbol": "SAP",
+    "Company Name": "SAP SE",
+    "Market Cap": "1.1182E+11",
+    "Stock Price": "95.24",
+    "% Change": "-0.864",
+    "Revenue": ""
+  },
+  {
+    "﻿No.": "91",
+    "Symbol": "DE",
+    "Company Name": "Deere & Company",
+    "Market Cap": "1.10616E+11",
+    "Stock Price": "361.92",
+    "% Change": "2.713",
+    "Revenue": "45793000000"
+  },
+  {
+    "﻿No.": "92",
+    "Symbol": "BUD",
+    "Company Name": "Anheuser-Busch InBev SA/NV",
+    "Market Cap": "1.1045E+11",
+    "Stock Price": "54.43",
+    "% Change": "-1.072",
+    "Revenue": "56499000000"
+  },
+  {
+    "﻿No.": "93",
+    "Symbol": "BLK",
+    "Company Name": "BlackRock, Inc.",
+    "Market Cap": "1.09858E+11",
+    "Stock Price": "728.65",
+    "% Change": "0.474",
+    "Revenue": "19675000000"
+  },
+  {
+    "﻿No.": "94",
+    "Symbol": "NFLX",
+    "Company Name": "Netflix, Inc.",
+    "Market Cap": "1.09596E+11",
+    "Stock Price": "242.7",
+    "% Change": "-0.578",
+    "Revenue": "31030693000"
+  },
+  {
+    "﻿No.": "95",
+    "Symbol": "SNY",
+    "Company Name": "Sanofi",
+    "Market Cap": "1.08588E+11",
+    "Stock Price": "43.42",
+    "% Change": "-3.938",
+    "Revenue": "44251578947"
+  },
+  {
+    "﻿No.": "96",
+    "Symbol": "DEO",
+    "Company Name": "Diageo PLC",
+    "Market Cap": "1.07018E+11",
+    "Stock Price": "187.87",
+    "% Change": "-1.628",
+    "Revenue": "18843902439"
+  },
+  {
+    "﻿No.": "97",
+    "Symbol": "SONY",
+    "Company Name": "Sony Group Corporation",
+    "Market Cap": "1.06115E+11",
+    "Stock Price": "85.82",
+    "% Change": "0.574",
+    "Revenue": "73246431718"
+  },
+  {
+    "﻿No.": "98",
+    "Symbol": "C",
+    "Company Name": "Citigroup, Inc.",
+    "Market Cap": "1.04582E+11",
+    "Stock Price": "54",
+    "% Change": "1.523",
+    "Revenue": "73907000000"
+  },
+  {
+    "﻿No.": "99",
+    "Symbol": "ADP",
+    "Company Name": "Automatic Data Processing, Inc.",
+    "Market Cap": "1.03975E+11",
+    "Stock Price": "250.23",
+    "% Change": "-0.887",
+    "Revenue": "16498300000"
+  },
+  {
+    "﻿No.": "100",
+    "Symbol": "CAT",
+    "Company Name": "Caterpillar Inc.",
+    "Market Cap": "1.02414E+11",
+    "Stock Price": "194",
+    "% Change": "1.72",
+    "Revenue": "54031000000"
+  },
+  {
+    "﻿No.": "101",
+    "Symbol": "NOW",
+    "Company Name": "ServiceNow, Inc.",
+    "Market Cap": "1.00889E+11",
+    "Stock Price": "499.45",
+    "% Change": "-3.245",
+    "Revenue": "6600000000"
+  },
+  {
+    "﻿No.": "102",
+    "Symbol": "SBUX",
+    "Company Name": "Starbucks Corporation",
+    "Market Cap": "1.00134E+11",
+    "Stock Price": "87.27",
+    "% Change": "1.477",
+    "Revenue": "31982800000"
+  },
+  {
+    "﻿No.": "103",
+    "Symbol": "BA",
+    "Company Name": "The Boeing Company",
+    "Market Cap": "99688996723",
+    "Stock Price": "167.88",
+    "% Change": "-0.674",
+    "Revenue": "60743000000"
+  },
+  {
+    "﻿No.": "104",
+    "Symbol": "BP",
+    "Company Name": "BP plc",
+    "Market Cap": "99385548778",
+    "Stock Price": "31.42",
+    "% Change": "3.221",
+    "Revenue": "2.10831E+11"
+  },
+  {
+    "﻿No.": "105",
+    "Symbol": "PLD",
+    "Company Name": "Prologis, Inc.",
+    "Market Cap": "99380936658",
+    "Stock Price": "134.23",
+    "% Change": "-0.134",
+    "Revenue": "4830252000"
+  },
+  {
+    "﻿No.": "106",
+    "Symbol": "AMAT",
+    "Company Name": "Applied Materials, Inc.",
+    "Market Cap": "99331588020",
+    "Stock Price": "105.53",
+    "% Change": "0.457",
+    "Revenue": "24835000000"
+  },
+  {
+    "﻿No.": "107",
+    "Symbol": "PBR",
+    "Company Name": "Petroleo Brasileiro S.A.",
+    "Market Cap": "98418491384",
+    "Stock Price": "15.09",
+    "% Change": "-2.896",
+    "Revenue": "83966000000"
+  },
+  {
+    "﻿No.": "108",
+    "Symbol": "RIO",
+    "Company Name": "Rio Tinto PLC",
+    "Market Cap": "97202388939",
+    "Stock Price": "59.98",
+    "% Change": "1.592",
+    "Revenue": "63495000000"
+  },
+  {
+    "﻿No.": "109",
+    "Symbol": "EL",
+    "Company Name": "The Estee Lauder Companies, Inc.",
+    "Market Cap": "96612335460",
+    "Stock Price": "270.36",
+    "% Change": "-0.785",
+    "Revenue": "18112000000"
+  },
+  {
+    "﻿No.": "110",
+    "Symbol": "PBR.A",
+    "Company Name": "Petroleo Brasileiro SA",
+    "Market Cap": "95329348629",
+    "Stock Price": "14.04",
+    "% Change": "-3.505",
+    "Revenue": "83966000000"
+  },
+  {
+    "﻿No.": "111",
+    "Symbol": "LFC",
+    "Company Name": "China Life Insurance Company Limited",
+    "Market Cap": "94548647931",
+    "Stock Price": "7.51",
+    "% Change": "2.316",
+    "Revenue": "1.28895E+11"
+  },
+  {
+    "﻿No.": "112",
+    "Symbol": "JD",
+    "Company Name": "JD.com, Inc.",
+    "Market Cap": "91406917611",
+    "Stock Price": "56.94",
+    "% Change": "2.595",
+    "Revenue": "1.54386E+11"
+  },
+  {
+    "﻿No.": "113",
+    "Symbol": "BTI",
+    "Company Name": "British American Tobacco PLC",
+    "Market Cap": "91073429470",
+    "Stock Price": "40.43",
+    "% Change": "0.622",
+    "Revenue": "32168292682"
+  },
+  {
+    "﻿No.": "114",
+    "Symbol": "ADI",
+    "Company Name": "Analog Devices, Inc.",
+    "Market Cap": "90732142536",
+    "Stock Price": "174.55",
+    "% Change": "-0.303",
+    "Revenue": "9754778000"
+  },
+  {
+    "﻿No.": "115",
+    "Symbol": "ENB",
+    "Company Name": "Enbridge Inc.",
+    "Market Cap": "89657696240",
+    "Stock Price": "44.28",
+    "% Change": "0.912",
+    "Revenue": "40541085271"
+  },
+  {
+    "﻿No.": "116",
+    "Symbol": "MDLZ",
+    "Company Name": "Mondelez International, Inc.",
+    "Market Cap": "88113946585",
+    "Stock Price": "64.29",
+    "% Change": "-0.279",
+    "Revenue": "29878000000"
+  },
+  {
+    "﻿No.": "117",
+    "Symbol": "BAM",
+    "Company Name": "Brookfield Asset Management, Inc.",
+    "Market Cap": "87924097017",
+    "Stock Price": "53.56",
+    "% Change": "1.114",
+    "Revenue": "81203000000"
+  },
+  {
+    "﻿No.": "118",
+    "Symbol": "CI",
+    "Company Name": "Cigna Corporation",
+    "Market Cap": "87263174570",
+    "Stock Price": "286",
+    "% Change": "-0.373",
+    "Revenue": "1.79461E+11"
+  },
+  {
+    "﻿No.": "119",
+    "Symbol": "CNI",
+    "Company Name": "Canadian National Railway Company",
+    "Market Cap": "86784966634",
+    "Stock Price": "126.99",
+    "% Change": "-1.375",
+    "Revenue": "11934883720"
+  },
+  {
+    "﻿No.": "120",
+    "Symbol": "GE",
+    "Company Name": "General Electric Company",
+    "Market Cap": "86517800917",
+    "Stock Price": "78.9",
+    "% Change": "2.282",
+    "Revenue": "74485000000"
+  },
+  {
+    "﻿No.": "121",
+    "Symbol": "MMM",
+    "Company Name": "3M Company",
+    "Market Cap": "85246934939",
+    "Stock Price": "149.66",
+    "% Change": "0.187",
+    "Revenue": "35085000000"
+  },
+  {
+    "﻿No.": "122",
+    "Symbol": "MMC",
+    "Company Name": "Marsh & McLennan Companies, Inc.",
+    "Market Cap": "84947828692",
+    "Stock Price": "170.23",
+    "% Change": "0.324",
+    "Revenue": "20648000000"
+  },
+  {
+    "﻿No.": "123",
+    "Symbol": "INFY",
+    "Company Name": "Infosys Limited",
+    "Market Cap": "84508893180",
+    "Stock Price": "20.15",
+    "% Change": "-1.129",
+    "Revenue": "16311000000"
+  },
+  {
+    "﻿No.": "124",
+    "Symbol": "ISRG",
+    "Company Name": "Intuitive Surgical, Inc.",
+    "Market Cap": "84285341524",
+    "Stock Price": "236.02",
+    "% Change": "-0.769",
+    "Revenue": "5963800000"
+  },
+  {
+    "﻿No.": "125",
+    "Symbol": "DUK",
+    "Company Name": "Duke Energy Corporation",
+    "Market Cap": "83549339553",
+    "Stock Price": "108.51",
+    "% Change": "-0.5",
+    "Revenue": "27006000000"
+  },
+  {
+    "﻿No.": "126",
+    "Symbol": "SO",
+    "Company Name": "The Southern Company",
+    "Market Cap": "82807701480",
+    "Stock Price": "77.9",
+    "% Change": "-0.498",
+    "Revenue": "25859000000"
+  },
+  {
+    "﻿No.": "127",
+    "Symbol": "SYK",
+    "Company Name": "Stryker Corporation",
+    "Market Cap": "82477760337",
+    "Stock Price": "218.01",
+    "% Change": "-0.543",
+    "Revenue": "17629000000"
+  },
+  {
+    "﻿No.": "128",
+    "Symbol": "BKNG",
+    "Company Name": "Booking Holdings Inc.",
+    "Market Cap": "81944067312",
+    "Stock Price": "2063.76",
+    "% Change": "1.98",
+    "Revenue": "14646000000"
+  },
+  {
+    "﻿No.": "129",
+    "Symbol": "MO",
+    "Company Name": "Altria Group, Inc.",
+    "Market Cap": "81271005155",
+    "Stock Price": "45.13",
+    "% Change": "0.872",
+    "Revenue": "25476000000"
+  },
+  {
+    "﻿No.": "130",
+    "Symbol": "ZTS",
+    "Company Name": "Zoetis Inc.",
+    "Market Cap": "81072308210",
+    "Stock Price": "173.18",
+    "% Change": "-0.506",
+    "Revenue": "7995000000"
+  },
+  {
+    "﻿No.": "131",
+    "Symbol": "CB",
+    "Company Name": "Chubb Ltd.",
+    "Market Cap": "81051148190",
+    "Stock Price": "193.81",
+    "% Change": "1.153",
+    "Revenue": "40938000000"
+  },
+  {
+    "﻿No.": "132",
+    "Symbol": "TGT",
+    "Company Name": "Target Corporation",
+    "Market Cap": "78642847705",
+    "Stock Price": "169.6",
+    "% Change": "-0.041",
+    "Revenue": "1.06978E+11"
+  },
+  {
+    "﻿No.": "133",
+    "Symbol": "GILD",
+    "Company Name": "Gilead Sciences, Inc.",
+    "Market Cap": "78331658188",
+    "Stock Price": "62.45",
+    "% Change": "-1.093",
+    "Revenue": "27472000000"
+  },
+  {
+    "﻿No.": "134",
+    "Symbol": "ABNB",
+    "Company Name": "Airbnb, Inc.",
+    "Market Cap": "77699129229",
+    "Stock Price": "121.5",
+    "% Change": "2.333",
+    "Revenue": "7382672000"
+  },
+  {
+    "﻿No.": "135",
+    "Symbol": "CCI",
+    "Company Name": "Crown Castle International Corp",
+    "Market Cap": "77462020076",
+    "Stock Price": "178.88",
+    "% Change": "-1.606",
+    "Revenue": "6597000000"
+  },
+  {
+    "﻿No.": "136",
+    "Symbol": "IBN",
+    "Company Name": "ICICI Bank Limited",
+    "Market Cap": "76159467502",
+    "Stock Price": "21.89",
+    "% Change": "-0.681",
+    "Revenue": "20674057322"
+  },
+  {
+    "﻿No.": "137",
+    "Symbol": "TJX",
+    "Company Name": "The TJX Companies, Inc.",
+    "Market Cap": "75465342963",
+    "Stock Price": "64.41",
+    "% Change": "2.189",
+    "Revenue": "49869795000"
+  },
+  {
+    "﻿No.": "138",
+    "Symbol": "CP",
+    "Company Name": "Canadian Pacific Railway Limited",
+    "Market Cap": "75044298672",
+    "Stock Price": "80.7",
+    "% Change": "-1.006",
+    "Revenue": "6218604651"
+  },
+  {
+    "﻿No.": "139",
+    "Symbol": "VRTX",
+    "Company Name": "Vertex Pharmaceuticals, Inc.",
+    "Market Cap": "74927062900",
+    "Stock Price": "292.16",
+    "% Change": "-1.221",
+    "Revenue": "8350425000"
+  },
+  {
+    "﻿No.": "140",
+    "Symbol": "CHTR",
+    "Company Name": "Charter Communications, Inc.",
+    "Market Cap": "74895760976",
+    "Stock Price": "466.19",
+    "% Change": "0.756",
+    "Revenue": "53156000000"
+  },
+  {
+    "﻿No.": "141",
+    "Symbol": "BNS",
+    "Company Name": "The Bank of Nova Scotia",
+    "Market Cap": "74461921248",
+    "Stock Price": "62.4",
+    "% Change": "0.435",
+    "Revenue": "24948412698"
+  },
+  {
+    "﻿No.": "142",
+    "Symbol": "FMX",
+    "Company Name": "Fomento Economico Mexicano SAB de CV",
+    "Market Cap": "74193117146",
+    "Stock Price": "63.91",
+    "% Change": "2.931",
+    "Revenue": "27134682926"
+  },
+  {
+    "﻿No.": "143",
+    "Symbol": "BDX",
+    "Company Name": "Becton, Dickinson and Company",
+    "Market Cap": "73979584297",
+    "Stock Price": "259.4",
+    "% Change": "0.325",
+    "Revenue": "19782000000"
+  },
+  {
+    "﻿No.": "144",
+    "Symbol": "CSX",
+    "Company Name": "CSX Corporation",
+    "Market Cap": "73144762362",
+    "Stock Price": "34.16",
+    "% Change": "0.294",
+    "Revenue": "13947000000"
+  },
+  {
+    "﻿No.": "145",
+    "Symbol": "NOC",
+    "Company Name": "Northrop Grumman Corporation",
+    "Market Cap": "72762130410",
+    "Stock Price": "470.31",
+    "% Change": "-0.598",
+    "Revenue": "34957000000"
+  },
+  {
+    "﻿No.": "146",
+    "Symbol": "GSK",
+    "Company Name": "GSK plc",
+    "Market Cap": "72663384041",
+    "Stock Price": "35.73",
+    "% Change": "-6.71",
+    "Revenue": "43064634146"
+  },
+  {
+    "﻿No.": "147",
+    "Symbol": "USB",
+    "Company Name": "U.S. Bancorp",
+    "Market Cap": "71971176418",
+    "Stock Price": "48.44",
+    "% Change": "1.191",
+    "Revenue": "22826000000"
+  },
+  {
+    "﻿No.": "148",
+    "Symbol": "CME",
+    "Company Name": "CME Group Inc.",
+    "Market Cap": "71534952321",
+    "Stock Price": "199.02",
+    "% Change": "0.313",
+    "Revenue": "4841000000"
+  },
+  {
+    "﻿No.": "149",
+    "Symbol": "SNP",
+    "Company Name": "China Petroleum & Chemical Corporation",
+    "Market Cap": "70619496413",
+    "Stock Price": "47.18",
+    "% Change": "0.554",
+    "Revenue": "4.58639E+11"
+  },
+  {
+    "﻿No.": "150",
+    "Symbol": "PNC",
+    "Company Name": "The PNC Financial Services Group, Inc.",
+    "Market Cap": "70516719528",
+    "Stock Price": "171.94",
+    "% Change": "1.463",
+    "Revenue": "20132000000"
+  },
+  {
+    "﻿No.": "151",
+    "Symbol": "PGR",
+    "Company Name": "The Progressive Corporation",
+    "Market Cap": "70458859454",
+    "Stock Price": "120.46",
+    "% Change": "-0.356",
+    "Revenue": "47712000000"
+  },
+  {
+    "﻿No.": "152",
+    "Symbol": "WM",
+    "Company Name": "Waste Management, Inc.",
+    "Market Cap": "70159654846",
+    "Stock Price": "169.74",
+    "% Change": "-0.194",
+    "Revenue": "19031000000"
+  },
+  {
+    "﻿No.": "153",
+    "Symbol": "TEAM",
+    "Company Name": "Atlassian Corporation PLC",
+    "Market Cap": "69911715703",
+    "Stock Price": "275.8",
+    "% Change": "-3.63",
+    "Revenue": "2802882000"
+  },
+  {
+    "﻿No.": "154",
+    "Symbol": "FISV",
+    "Company Name": "Fiserv, Inc.",
+    "Market Cap": "69049491446",
+    "Stock Price": "107.96",
+    "% Change": "1.333",
+    "Revenue": "17008000000"
+  },
+  {
+    "﻿No.": "155",
+    "Symbol": "BMO",
+    "Company Name": "Bank of Montreal",
+    "Market Cap": "68805033888",
+    "Stock Price": "102.01",
+    "% Change": "0.91",
+    "Revenue": "24603968253"
+  },
+  {
+    "﻿No.": "156",
+    "Symbol": "MU",
+    "Company Name": "Micron Technology, Inc.",
+    "Market Cap": "68748304323",
+    "Stock Price": "62.32",
+    "% Change": "1.498",
+    "Revenue": "32389000000"
+  },
+  {
+    "﻿No.": "157",
+    "Symbol": "LRCX",
+    "Company Name": "Lam Research Corporation",
+    "Market Cap": "68139585489",
+    "Stock Price": "497.46",
+    "% Change": "0.507",
+    "Revenue": "16736664000"
+  },
+  {
+    "﻿No.": "158",
+    "Symbol": "D",
+    "Company Name": "Dominion Energy, Inc.",
+    "Market Cap": "68065443808",
+    "Stock Price": "81.76",
+    "% Change": "-0.463",
+    "Revenue": "14931000000"
+  },
+  {
+    "﻿No.": "159",
+    "Symbol": "REGN",
+    "Company Name": "Regeneron Pharmaceuticals, Inc.",
+    "Market Cap": "68010094319",
+    "Stock Price": "623.9",
+    "% Change": "-2.742",
+    "Revenue": "14226800000"
+  },
+  {
+    "﻿No.": "160",
+    "Symbol": "TFC",
+    "Company Name": "Truist Financial Corp.",
+    "Market Cap": "67672420351",
+    "Stock Price": "51.02",
+    "% Change": "1.27",
+    "Revenue": "22495000000"
+  },
+  {
+    "﻿No.": "161",
+    "Symbol": "MUFG",
+    "Company Name": "Mitsubishi UFJ Financial Group, Inc.",
+    "Market Cap": "67425665019",
+    "Stock Price": "5.39",
+    "% Change": "0.372",
+    "Revenue": "25327112387"
+  },
+  {
+    "﻿No.": "162",
+    "Symbol": "MRNA",
+    "Company Name": "Moderna, Inc.",
+    "Market Cap": "67212070797",
+    "Stock Price": "171.81",
+    "% Change": "-1.412",
+    "Revenue": "22995000000"
+  },
+  {
+    "﻿No.": "163",
+    "Symbol": "EOG",
+    "Company Name": "EOG Resources, Inc.",
+    "Market Cap": "66539548618",
+    "Stock Price": "113.54",
+    "% Change": "4.175",
+    "Revenue": "22199000000"
+  },
+  {
+    "﻿No.": "164",
+    "Symbol": "CL",
+    "Company Name": "Colgate-Palmolive Company",
+    "Market Cap": "66312540159",
+    "Stock Price": "79.5",
+    "% Change": "-1.046",
+    "Revenue": "17700000000"
+  },
+  {
+    "﻿No.": "165",
+    "Symbol": "ITW",
+    "Company Name": "Illinois Tool Works Inc.",
+    "Market Cap": "66002124724",
+    "Stock Price": "213.17",
+    "% Change": "-0.131",
+    "Revenue": "15185000000"
+  },
+  {
+    "﻿No.": "166",
+    "Symbol": "CNQ",
+    "Company Name": "Canadian Natural Resources Limited",
+    "Market Cap": "64458342361",
+    "Stock Price": "55.84",
+    "% Change": "3.676",
+    "Revenue": "30291472868"
+  },
+  {
+    "﻿No.": "167",
+    "Symbol": "EW",
+    "Company Name": "Edwards Lifesciences Corporation",
+    "Market Cap": "64424472507",
+    "Stock Price": "103.92",
+    "% Change": "0.058",
+    "Revenue": "5355000000"
+  },
+  {
+    "﻿No.": "168",
+    "Symbol": "VALE",
+    "Company Name": "Vale S.A.",
+    "Market Cap": "64323555317",
+    "Stock Price": "14.01",
+    "% Change": "1.817",
+    "Revenue": "54502000000"
+  },
+  {
+    "﻿No.": "169",
+    "Symbol": "UBER",
+    "Company Name": "Uber Technologies, Inc.",
+    "Market Cap": "63832625120",
+    "Stock Price": "32.24",
+    "% Change": "-1.707",
+    "Revenue": "25550000000"
+  },
+  {
+    "﻿No.": "170",
+    "Symbol": "F",
+    "Company Name": "Ford Motor Company",
+    "Market Cap": "63640395764",
+    "Stock Price": "15.83",
+    "% Change": "2.129",
+    "Revenue": "1.48027E+11"
+  },
+  {
+    "﻿No.": "171",
+    "Symbol": "GD",
+    "Company Name": "General Dynamics Corporation",
+    "Market Cap": "63575711660",
+    "Stock Price": "231.82",
+    "% Change": "0.59",
+    "Revenue": "38441000000"
+  },
+  {
+    "﻿No.": "172",
+    "Symbol": "KKR",
+    "Company Name": "KKR & Co. Inc.",
+    "Market Cap": "63517560819",
+    "Stock Price": "56.66",
+    "% Change": "2.09",
+    "Revenue": "9871048000"
+  },
+  {
+    "﻿No.": "173",
+    "Symbol": "SHW",
+    "Company Name": "The Sherwin-Williams Company",
+    "Market Cap": "63238061877",
+    "Stock Price": "243.99",
+    "% Change": "0.103",
+    "Revenue": "20779800000"
+  },
+  {
+    "﻿No.": "174",
+    "Symbol": "ATVI",
+    "Company Name": "Activision Blizzard, Inc.",
+    "Market Cap": "62983540676",
+    "Stock Price": "80.51",
+    "% Change": "-0.494",
+    "Revenue": "7645000000"
+  },
+  {
+    "﻿No.": "175",
+    "Symbol": "EQIX",
+    "Company Name": "Equinix, Inc.",
+    "Market Cap": "62779047490",
+    "Stock Price": "689.31",
+    "% Change": "-2.84",
+    "Revenue": "6933155000"
+  },
+  {
+    "﻿No.": "176",
+    "Symbol": "PDD",
+    "Company Name": "Pinduoduo Inc.",
+    "Market Cap": "62739030013",
+    "Stock Price": "49.62",
+    "% Change": "4.994",
+    "Revenue": "14933832656"
+  },
+  {
+    "﻿No.": "177",
+    "Symbol": "AON",
+    "Company Name": "Aon plc",
+    "Market Cap": "62579634049",
+    "Stock Price": "296.69",
+    "% Change": "-0.346",
+    "Revenue": "12435000000"
+  },
+  {
+    "﻿No.": "178",
+    "Symbol": "HCA",
+    "Company Name": "HCA Healthcare, Inc.",
+    "Market Cap": "62522314550",
+    "Stock Price": "216.52",
+    "% Change": "-0.092",
+    "Revenue": "60105000000"
+  },
+  {
+    "﻿No.": "179",
+    "Symbol": "AMX",
+    "Company Name": "America Movil SAB de CV",
+    "Market Cap": "61329096693",
+    "Stock Price": "19.22",
+    "% Change": "2.071",
+    "Revenue": ""
+  },
+  {
+    "﻿No.": "180",
+    "Symbol": "HUM",
+    "Company Name": "Humana Inc.",
+    "Market Cap": "61260996232",
+    "Stock Price": "484.07",
+    "% Change": "-0.397",
+    "Revenue": "89383000000"
+  },
+  {
+    "﻿No.": "181",
+    "Symbol": "AMOV",
+    "Company Name": "America Movil SAB de CV",
+    "Market Cap": "61201461232",
+    "Stock Price": "19.18",
+    "% Change": "2.457",
+    "Revenue": "41"
+  },
+  {
+    "﻿No.": "182",
+    "Symbol": "OXY",
+    "Company Name": "Occidental Petroleum Corporation",
+    "Market Cap": "61189709808",
+    "Stock Price": "65.69",
+    "% Change": "4.502",
+    "Revenue": "34093000000"
+  },
+  {
+    "﻿No.": "183",
+    "Symbol": "NSC",
+    "Company Name": "Norfolk Southern Corporation",
+    "Market Cap": "61116563279",
+    "Stock Price": "260.21",
+    "% Change": "1.025",
+    "Revenue": "11869000000"
+  },
+  {
+    "﻿No.": "184",
+    "Symbol": "FIS",
+    "Company Name": "Fidelity National Information Services, Inc.",
+    "Market Cap": "61107969993",
+    "Stock Price": "100.51",
+    "% Change": "0.631",
+    "Revenue": "14390000000"
+  },
+  {
+    "﻿No.": "185",
+    "Symbol": "PSA",
+    "Company Name": "Public Storage",
+    "Market Cap": "60983484334",
+    "Stock Price": "346.44",
+    "% Change": "0.13",
+    "Revenue": "3824737000"
+  },
+  {
+    "﻿No.": "186",
+    "Symbol": "NTES",
+    "Company Name": "NetEase, Inc.",
+    "Market Cap": "60110151678",
+    "Stock Price": "91.52",
+    "% Change": "1.893",
+    "Revenue": "14163227656"
+  },
+  {
+    "﻿No.": "187",
+    "Symbol": "BSX",
+    "Company Name": "Boston Scientific Corporation",
+    "Market Cap": "59784032221",
+    "Stock Price": "41.76",
+    "% Change": "-0.239",
+    "Revenue": "12329000000"
+  },
+  {
+    "﻿No.": "188",
+    "Symbol": "UBS",
+    "Company Name": "UBS Group AG",
+    "Market Cap": "59742650356",
+    "Stock Price": "16.95",
+    "% Change": "1.013",
+    "Revenue": "39057142857"
+  },
+  {
+    "﻿No.": "189",
+    "Symbol": "FDX",
+    "Company Name": "FedEx Corporation",
+    "Market Cap": "59581312900",
+    "Stock Price": "229.24",
+    "% Change": "-1.381",
+    "Revenue": "93512000000"
+  },
+  {
+    "﻿No.": "190",
+    "Symbol": "ICE",
+    "Company Name": "Intercontinental Exchange Inc.",
+    "Market Cap": "59548372914",
+    "Stock Price": "106.63",
+    "% Change": "0.547",
+    "Revenue": "9477000000"
+  },
+  {
+    "﻿No.": "191",
+    "Symbol": "ETN",
+    "Company Name": "Eaton Corporation PLC",
+    "Market Cap": "59525934999",
+    "Stock Price": "149.45",
+    "% Change": "0.619",
+    "Revenue": "19776000000"
+  },
+  {
+    "﻿No.": "192",
+    "Symbol": "APD",
+    "Company Name": "Air Products & Chemicals, Inc.",
+    "Market Cap": "58734595838",
+    "Stock Price": "264.81",
+    "% Change": "-0.309",
+    "Revenue": "11969700000"
+  },
+  {
+    "﻿No.": "193",
+    "Symbol": "EPD",
+    "Company Name": "Enterprise Products Partners L.P.",
+    "Market Cap": "58523279342",
+    "Stock Price": "26.84",
+    "% Change": "1.628",
+    "Revenue": "44659600000"
+  },
+  {
+    "﻿No.": "194",
+    "Symbol": "ABB",
+    "Company Name": "ABB Ltd",
+    "Market Cap": "58463260657",
+    "Stock Price": "30.51",
+    "% Change": "0.066",
+    "Revenue": "28945000000"
+  },
+  {
+    "﻿No.": "195",
+    "Symbol": "MCO",
+    "Company Name": "Moody's Corporation",
+    "Market Cap": "58279600000",
+    "Stock Price": "317.6",
+    "% Change": "-1.532",
+    "Revenue": "5968000000"
+  },
+  {
+    "﻿No.": "196",
+    "Symbol": "GM",
+    "Company Name": "General Motors Company",
+    "Market Cap": "57748074484",
+    "Stock Price": "38.46",
+    "% Change": "1.344",
+    "Revenue": "1.32101E+11"
+  },
+  {
+    "﻿No.": "197",
+    "Symbol": "SNPS",
+    "Company Name": "Synopsys, Inc.",
+    "Market Cap": "57671221208",
+    "Stock Price": "377.01",
+    "% Change": "0.346",
+    "Revenue": "4759033000"
+  },
+  {
+    "﻿No.": "198",
+    "Symbol": "DG",
+    "Company Name": "Dollar General Corporation",
+    "Market Cap": "57173729100",
+    "Stock Price": "251.87",
+    "% Change": "-0.991",
+    "Revenue": "34570837000"
+  },
+  {
+    "﻿No.": "199",
+    "Symbol": "SNOW",
+    "Company Name": "Snowflake Inc.",
+    "Market Cap": "56828723040",
+    "Stock Price": "167.88",
+    "% Change": "-3.739",
+    "Revenue": "1412784000"
+  },
+  {
+    "﻿No.": "200",
+    "Symbol": "TRI",
+    "Company Name": "Thomson Reuters Corporation",
+    "Market Cap": "55872417706",
+    "Stock Price": "115.38",
+    "% Change": "-0.061",
+    "Revenue": "6524000000"
+  },
+  {
+    "﻿No.": "201",
+    "Symbol": "RELX",
+    "Company Name": "Relx PLC",
+    "Market Cap": "55525126136",
+    "Stock Price": "28.91",
+    "% Change": "-2",
+    "Revenue": "9535365853"
+  },
+  {
+    "﻿No.": "202",
+    "Symbol": "KDP",
+    "Company Name": "Keurig Dr Pepper Inc.",
+    "Market Cap": "55255052258",
+    "Stock Price": "39.02",
+    "% Change": "-1.713",
+    "Revenue": "13273000000"
+  },
+  {
+    "﻿No.": "203",
+    "Symbol": "CNC",
+    "Company Name": "Centene Corporation",
+    "Market Cap": "54532472829",
+    "Stock Price": "94.01",
+    "% Change": "-0.854",
+    "Revenue": "1.38095E+11"
+  },
+  {
+    "﻿No.": "204",
+    "Symbol": "PXD",
+    "Company Name": "Pioneer Natural Resources Company",
+    "Market Cap": "54530637759",
+    "Stock Price": "228.48",
+    "% Change": "4.904",
+    "Revenue": "21872000000"
+  },
+  {
+    "﻿No.": "205",
+    "Symbol": "MET",
+    "Company Name": "MetLife, Inc.",
+    "Market Cap": "53192880127",
+    "Stock Price": "66.69",
+    "% Change": "1.153",
+    "Revenue": "68306000000"
+  },
+  {
+    "﻿No.": "206",
+    "Symbol": "KLAC",
+    "Company Name": "KLA Corporation",
+    "Market Cap": "52857442118",
+    "Stock Price": "372.75",
+    "% Change": "-0.47",
+    "Revenue": "9211883000"
+  },
+  {
+    "﻿No.": "207",
+    "Symbol": "MAR",
+    "Company Name": "Marriott International, Inc.",
+    "Market Cap": "52294905852",
+    "Stock Price": "161.13",
+    "% Change": "-0.068",
+    "Revenue": "17929000000"
+  },
+  {
+    "﻿No.": "208",
+    "Symbol": "SLB",
+    "Company Name": "Schlumberger Limited",
+    "Market Cap": "52176846841",
+    "Stock Price": "36.89",
+    "% Change": "5.641",
+    "Revenue": "24807000000"
+  },
+  {
+    "﻿No.": "209",
+    "Symbol": "AEP",
+    "Company Name": "American Electric Power Company, Inc.",
+    "Market Cap": "51989880800",
+    "Stock Price": "101.2",
+    "% Change": "-0.138",
+    "Revenue": "17916700000"
+  },
+  {
+    "﻿No.": "210",
+    "Symbol": "MELI",
+    "Company Name": "MercadoLibre, Inc.",
+    "Market Cap": "51972783568",
+    "Stock Price": "1032.47",
+    "% Change": "-2.984",
+    "Revenue": "8833218000"
+  },
+  {
+    "﻿No.": "211",
+    "Symbol": "PANW",
+    "Company Name": "Palo Alto Networks, Inc.",
+    "Market Cap": "51813183106",
+    "Stock Price": "516.51",
+    "% Change": "-1.021",
+    "Revenue": "5170300000"
+  },
+  {
+    "﻿No.": "212",
+    "Symbol": "EMR",
+    "Company Name": "Emerson Electric Company",
+    "Market Cap": "51732832188",
+    "Stock Price": "87.49",
+    "% Change": "0.534",
+    "Revenue": "19216000000"
+  },
+  {
+    "﻿No.": "213",
+    "Symbol": "MCK",
+    "Company Name": "McKesson Corporation",
+    "Market Cap": "51564576593",
+    "Stock Price": "358.76",
+    "% Change": "-0.236",
+    "Revenue": "2.68446E+11"
+  },
+  {
+    "﻿No.": "214",
+    "Symbol": "SRE",
+    "Company Name": "Sempra Energy",
+    "Market Cap": "51512266719",
+    "Stock Price": "163.89",
+    "% Change": "0.251",
+    "Revenue": "14224000000"
+  },
+  {
+    "﻿No.": "215",
+    "Symbol": "SHOP",
+    "Company Name": "Shopify, Inc.",
+    "Market Cap": "51267919842",
+    "Stock Price": "40.42",
+    "% Change": "-0.468",
+    "Revenue": "5002450000"
+  },
+  {
+    "﻿No.": "216",
+    "Symbol": "CDNS",
+    "Company Name": "Cadence Design Systems, Inc.",
+    "Market Cap": "51035680649",
+    "Stock Price": "186.35",
+    "% Change": "0.005",
+    "Revenue": "3283218000"
+  },
+  {
+    "﻿No.": "217",
+    "Symbol": "SQ",
+    "Company Name": "Block, Inc.",
+    "Market Cap": "50750779308",
+    "Stock Price": "85.99",
+    "% Change": "-3.208",
+    "Revenue": "16288405000"
+  },
+  {
+    "﻿No.": "218",
+    "Symbol": "NGG",
+    "Company Name": "National Grid PLC",
+    "Market Cap": "50709557238",
+    "Stock Price": "69.47",
+    "% Change": "-1.096",
+    "Revenue": "24275000000"
+  },
+  {
+    "﻿No.": "219",
+    "Symbol": "VMW",
+    "Company Name": "VMware, Inc.",
+    "Market Cap": "50619756427",
+    "Stock Price": "120.11",
+    "% Change": "0.067",
+    "Revenue": "12945000000"
+  },
+  {
+    "﻿No.": "220",
+    "Symbol": "TRP",
+    "Company Name": "TC Energy Corporation",
+    "Market Cap": "49886765043",
+    "Stock Price": "50.69",
+    "% Change": "2.321",
+    "Revenue": "10822480620"
+  },
+  {
+    "﻿No.": "221",
+    "Symbol": "SE",
+    "Company Name": "Sea Limited",
+    "Market Cap": "49758752748",
+    "Stock Price": "88.58",
+    "% Change": "1.489",
+    "Revenue": "11091117000"
+  },
+  {
+    "﻿No.": "222",
+    "Symbol": "ITUB",
+    "Company Name": "Itau Unibanco Holding S.A.",
+    "Market Cap": "49688539132",
+    "Stock Price": "5.07",
+    "% Change": "-1.362",
+    "Revenue": "20106822262"
+  },
+  {
+    "﻿No.": "223",
+    "Symbol": "ADSK",
+    "Company Name": "Autodesk, Inc.",
+    "Market Cap": "49377234720",
+    "Stock Price": "227.26",
+    "% Change": "0.415",
+    "Revenue": "4567100000"
+  },
+  {
+    "﻿No.": "224",
+    "Symbol": "NTR",
+    "Company Name": "Nutrien Ltd.",
+    "Market Cap": "48865046442",
+    "Stock Price": "90.52",
+    "% Change": "0.166",
+    "Revenue": "35454000000"
+  },
+  {
+    "﻿No.": "225",
+    "Symbol": "ECL",
+    "Company Name": "Ecolab Inc.",
+    "Market Cap": "48770166714",
+    "Stock Price": "171.13",
+    "% Change": "0.252",
+    "Revenue": "13532700000"
+  },
+  {
+    "﻿No.": "226",
+    "Symbol": "BIDU",
+    "Company Name": "Baidu, Inc.",
+    "Market Cap": "48685436926",
+    "Stock Price": "139.38",
+    "% Change": "1.191",
+    "Revenue": "19495312500"
+  },
+  {
+    "﻿No.": "227",
+    "Symbol": "MPC",
+    "Company Name": "Marathon Petroleum Corporation",
+    "Market Cap": "48221925299",
+    "Stock Price": "96.71",
+    "% Change": "1.607",
+    "Revenue": "1.60843E+11"
+  },
+  {
+    "﻿No.": "228",
+    "Symbol": "STLA",
+    "Company Name": "Stellantis N.V.",
+    "Market Cap": "47818719228",
+    "Stock Price": "15.21",
+    "% Change": "0.929",
+    "Revenue": "1.73482E+11"
+  },
+  {
+    "﻿No.": "229",
+    "Symbol": "PAYX",
+    "Company Name": "Paychex, Inc.",
+    "Market Cap": "47532920791",
+    "Stock Price": "132.07",
+    "% Change": "-0.58",
+    "Revenue": "4611700000"
+  },
+  {
+    "﻿No.": "230",
+    "Symbol": "KHC",
+    "Company Name": "The Kraft Heinz Company",
+    "Market Cap": "47461289960",
+    "Stock Price": "38.73",
+    "% Change": "0.259",
+    "Revenue": "25632000000"
+  },
+  {
+    "﻿No.": "231",
+    "Symbol": "NXPI",
+    "Company Name": "NXP Semiconductors NV",
+    "Market Cap": "47367430126",
+    "Stock Price": "180.38",
+    "% Change": "0.228",
+    "Revenue": "12348000000"
+  },
+  {
+    "﻿No.": "232",
+    "Symbol": "ADM",
+    "Company Name": "Archer-Daniels-Midland Company",
+    "Market Cap": "47165685754",
+    "Stock Price": "84.14",
+    "% Change": "0.646",
+    "Revenue": "94364000000"
+  },
+  {
+    "﻿No.": "233",
+    "Symbol": "CM",
+    "Company Name": "Canadian Imperial Bank of Commerce",
+    "Market Cap": "47154221046",
+    "Stock Price": "52.17",
+    "% Change": "1.163",
+    "Revenue": "16661904761"
+  },
+  {
+    "﻿No.": "234",
+    "Symbol": "MNST",
+    "Company Name": "Monster Beverage Corporation",
+    "Market Cap": "47050923997",
+    "Stock Price": "89.3",
+    "% Change": "-0.579",
+    "Revenue": "6009435000"
+  },
+  {
+    "﻿No.": "235",
+    "Symbol": "APH",
+    "Company Name": "Amphenol Corporation",
+    "Market Cap": "46331154399",
+    "Stock Price": "77.89",
+    "% Change": "-0.562",
+    "Revenue": "11934000000"
+  },
+  {
+    "﻿No.": "236",
+    "Symbol": "HMC",
+    "Company Name": "Honda Motor Company, Ltd.",
+    "Market Cap": "46186196976",
+    "Stock Price": "27",
+    "% Change": "0.784",
+    "Revenue": "1.19382E+11"
+  },
+  {
+    "﻿No.": "237",
+    "Symbol": "HSY",
+    "Company Name": "The Hershey Company",
+    "Market Cap": "46158073741",
+    "Stock Price": "225.18",
+    "% Change": "-0.565",
+    "Revenue": "9724770000"
+  },
+  {
+    "﻿No.": "238",
+    "Symbol": "SAN",
+    "Company Name": "Banco Santander, S.A.",
+    "Market Cap": "46030876670",
+    "Stock Price": "2.68",
+    "% Change": "0.752",
+    "Revenue": ""
+  },
+  {
+    "﻿No.": "239",
+    "Symbol": "ROP",
+    "Company Name": "Roper Technologies, Inc.",
+    "Market Cap": "45976538734",
+    "Stock Price": "433.7",
+    "% Change": "-1.135",
+    "Revenue": "5812500000"
+  },
+  {
+    "﻿No.": "240",
+    "Symbol": "CRWD",
+    "Company Name": "CrowdStrike Holdings, Inc.",
+    "Market Cap": "45964181310",
+    "Stock Price": "198.06",
+    "% Change": "-1.365",
+    "Revenue": "1636585000"
+  },
+  {
+    "﻿No.": "241",
+    "Symbol": "GIS",
+    "Company Name": "General Mills, Inc.",
+    "Market Cap": "45957279680",
+    "Stock Price": "76.96",
+    "% Change": "-0.799",
+    "Revenue": "18992800000"
+  },
+  {
+    "﻿No.": "242",
+    "Symbol": "BCE",
+    "Company Name": "BCE, Inc.",
+    "Market Cap": "45886808050",
+    "Stock Price": "50.32",
+    "% Change": "-0.218",
+    "Revenue": "18415503875"
+  },
+  {
+    "﻿No.": "243",
+    "Symbol": "STZ",
+    "Company Name": "Constellation Brands, Inc.",
+    "Market Cap": "45833903919",
+    "Stock Price": "239.84",
+    "% Change": "-0.946",
+    "Revenue": "9157400000"
+  },
+  {
+    "﻿No.": "244",
+    "Symbol": "ABEV",
+    "Company Name": "Ambev S.A.",
+    "Market Cap": "45650640893",
+    "Stock Price": "2.9",
+    "% Change": "-1.695",
+    "Revenue": "13079766606"
+  },
+  {
+    "﻿No.": "245",
+    "Symbol": "MRVL",
+    "Company Name": "Marvell Technology, Inc.",
+    "Market Cap": "45648130020",
+    "Stock Price": "53.71",
+    "% Change": "-2.328",
+    "Revenue": "5077004000"
+  },
+  {
+    "﻿No.": "246",
+    "Symbol": "O",
+    "Company Name": "Realty Income Corporation",
+    "Market Cap": "45614239731",
+    "Stock Price": "73.86",
+    "% Change": "-0.364",
+    "Revenue": "2791139000"
+  },
+  {
+    "﻿No.": "247",
+    "Symbol": "ORLY",
+    "Company Name": "O'Reilly Automotive, Inc.",
+    "Market Cap": "45551816044",
+    "Stock Price": "719.41",
+    "% Change": "-0.058",
+    "Revenue": "13532675000"
+  },
+  {
+    "﻿No.": "248",
+    "Symbol": "KMB",
+    "Company Name": "Kimberly-Clark Corporation",
+    "Market Cap": "45454053360",
+    "Stock Price": "134.63",
+    "% Change": "-0.759",
+    "Revenue": "20133000000"
+  },
+  {
+    "﻿No.": "249",
+    "Symbol": "CMG",
+    "Company Name": "Chipotle Mexican Grill, Inc.",
+    "Market Cap": "45350824728",
+    "Stock Price": "1631.09",
+    "% Change": "-1.64",
+    "Revenue": "8146826000"
+  },
+  {
+    "﻿No.": "250",
+    "Symbol": "FCX",
+    "Company Name": "Freeport-McMoRan, Inc.",
+    "Market Cap": "45264982008",
+    "Stock Price": "31.67",
+    "% Change": "0.86",
+    "Revenue": "24266000000"
+  },
+  {
+    "﻿No.": "251",
+    "Symbol": "IQV",
+    "Company Name": "IQVIA Holdings Inc.",
+    "Market Cap": "45134933822",
+    "Stock Price": "242",
+    "% Change": "0.964",
+    "Revenue": "14136000000"
+  },
+  {
+    "﻿No.": "252",
+    "Symbol": "VLO",
+    "Company Name": "Valero Energy Corporation",
+    "Market Cap": "44948033535",
+    "Stock Price": "114.09",
+    "% Change": "2.085",
+    "Revenue": "1.55606E+11"
+  },
+  {
+    "﻿No.": "253",
+    "Symbol": "EXC",
+    "Company Name": "Exelon Corporation",
+    "Market Cap": "44807569394",
+    "Stock Price": "45.7",
+    "% Change": "0.373",
+    "Revenue": "28108000000"
+  },
+  {
+    "﻿No.": "254",
+    "Symbol": "RSG",
+    "Company Name": "Republic Services, Inc.",
+    "Market Cap": "44799299541",
+    "Stock Price": "141.8",
+    "% Change": "-0.798",
+    "Revenue": "12269100000"
+  },
+  {
+    "﻿No.": "255",
+    "Symbol": "BSBR",
+    "Company Name": "Banco Santander Brasil S.A.",
+    "Market Cap": "44285726716",
+    "Stock Price": "5.95",
+    "% Change": "0.168",
+    "Revenue": "9642135478"
+  },
+  {
+    "﻿No.": "256",
+    "Symbol": "LHX",
+    "Company Name": "L3Harris Technologies, Inc.",
+    "Market Cap": "44258033519",
+    "Stock Price": "231.29",
+    "% Change": "-1.445",
+    "Revenue": "16817000000"
+  },
+  {
+    "﻿No.": "257",
+    "Symbol": "COF",
+    "Company Name": "Capital One Financial Corporation",
+    "Market Cap": "44242698208",
+    "Stock Price": "115.27",
+    "% Change": "2.244",
+    "Revenue": "30552000000"
+  },
+  {
+    "﻿No.": "258",
+    "Symbol": "TAK",
+    "Company Name": "Takeda Pharmaceutical Company Limited",
+    "Market Cap": "43848531967",
+    "Stock Price": "14.12",
+    "% Change": "-0.703",
+    "Revenue": "26372011747"
+  },
+  {
+    "﻿No.": "259",
+    "Symbol": "SU",
+    "Company Name": "Suncor Energy Inc.",
+    "Market Cap": "43556147184",
+    "Stock Price": "31.85",
+    "% Change": "3.241",
+    "Revenue": "30547656250"
+  },
+  {
+    "﻿No.": "260",
+    "Symbol": "CTAS",
+    "Company Name": "Cintas Corporation",
+    "Market Cap": "43474415327",
+    "Stock Price": "429.64",
+    "% Change": "-0.496",
+    "Revenue": "7854459000"
+  },
+  {
+    "﻿No.": "261",
+    "Symbol": "AZO",
+    "Company Name": "AutoZone, Inc.",
+    "Market Cap": "43473520477",
+    "Stock Price": "2230.83",
+    "% Change": "0.34",
+    "Revenue": "15817360000"
+  },
+  {
+    "﻿No.": "262",
+    "Symbol": "CTVA",
+    "Company Name": "Corteva, Inc.",
+    "Market Cap": "43310022602",
+    "Stock Price": "60.27",
+    "% Change": "0.551",
+    "Revenue": "16703000000"
+  },
+  {
+    "﻿No.": "263",
+    "Symbol": "WDS",
+    "Company Name": "Woodside Energy Group Ltd",
+    "Market Cap": "42967138288",
+    "Stock Price": "22.61",
+    "% Change": "-0.088",
+    "Revenue": "12467000000"
+  },
+  {
+    "﻿No.": "264",
+    "Symbol": "TEL",
+    "Company Name": "TE Connectivity Ltd.",
+    "Market Cap": "42941583334",
+    "Stock Price": "134.26",
+    "% Change": "0.037",
+    "Revenue": "15740000000"
+  },
+  {
+    "﻿No.": "265",
+    "Symbol": "SMFG",
+    "Company Name": "Sumitomo Mitsui Financial Group, Inc.",
+    "Market Cap": "42840498175",
+    "Stock Price": "6.25",
+    "% Change": "0.482",
+    "Revenue": "25737981952"
+  },
+  {
+    "﻿No.": "266",
+    "Symbol": "AIG",
+    "Company Name": "American International Group, Inc.",
+    "Market Cap": "42834235364",
+    "Stock Price": "56.33",
+    "% Change": "2.567",
+    "Revenue": "57171000000"
+  },
+  {
+    "﻿No.": "267",
+    "Symbol": "SPG",
+    "Company Name": "Simon Property Group, Inc.",
+    "Market Cap": "42738720741",
+    "Stock Price": "114.07",
+    "% Change": "2.415",
+    "Revenue": "5198455000"
+  },
+  {
+    "﻿No.": "268",
+    "Symbol": "E",
+    "Company Name": "Eni SpA",
+    "Market Cap": "42724904938",
+    "Stock Price": "24.14",
+    "% Change": "2.505",
+    "Revenue": "88376136363"
+  },
+  {
+    "﻿No.": "269",
+    "Symbol": "PSX",
+    "Company Name": "Phillips 66",
+    "Market Cap": "42491236331",
+    "Stock Price": "88.33",
+    "% Change": "3.153",
+    "Revenue": "1.51071E+11"
+  },
+  {
+    "﻿No.": "270",
+    "Symbol": "DVN",
+    "Company Name": "Devon Energy Corporation",
+    "Market Cap": "42208407548",
+    "Stock Price": "64.46",
+    "% Change": "7.344",
+    "Revenue": "17177000000"
+  },
+  {
+    "﻿No.": "271",
+    "Symbol": "WDAY",
+    "Company Name": "Workday, Inc.",
+    "Market Cap": "42184318837",
+    "Stock Price": "166.08",
+    "% Change": "-3.064",
+    "Revenue": "5398422000"
+  },
+  {
+    "﻿No.": "272",
+    "Symbol": "MSI",
+    "Company Name": "Motorola Solutions, Inc.",
+    "Market Cap": "42101743511",
+    "Stock Price": "252.28",
+    "% Change": "-0.285",
+    "Revenue": "8459000000"
+  },
+  {
+    "﻿No.": "273",
+    "Symbol": "KMI",
+    "Company Name": "Kinder Morgan, Inc.",
+    "Market Cap": "42079207410",
+    "Stock Price": "18.59",
+    "% Change": "2.481",
+    "Revenue": "17693000000"
+  },
+  {
+    "﻿No.": "274",
+    "Symbol": "SYY",
+    "Company Name": "Sysco Corporation",
+    "Market Cap": "41909497816",
+    "Stock Price": "82.26",
+    "% Change": "0.661",
+    "Revenue": "65815781000"
+  },
+  {
+    "﻿No.": "275",
+    "Symbol": "LULU",
+    "Company Name": "Lululemon Athletica, Inc.",
+    "Market Cap": "41739292440",
+    "Stock Price": "316.98",
+    "% Change": "-0.714",
+    "Revenue": "6643615000"
+  },
+  {
+    "﻿No.": "276",
+    "Symbol": "FTNT",
+    "Company Name": "Fortinet, Inc.",
+    "Market Cap": "41413124075",
+    "Stock Price": "52.52",
+    "% Change": "-2.542",
+    "Revenue": "3815700000"
+  },
+  {
+    "﻿No.": "277",
+    "Symbol": "WMB",
+    "Company Name": "The Williams Companies, Inc.",
+    "Market Cap": "41356906469",
+    "Stock Price": "33.94",
+    "% Change": "2.786",
+    "Revenue": "10746000000"
+  },
+  {
+    "﻿No.": "278",
+    "Symbol": "VOD",
+    "Company Name": "Vodafone Group PLC",
+    "Market Cap": "41184534526",
+    "Stock Price": "14.76",
+    "% Change": "-0.539",
+    "Revenue": "50087912087"
+  },
+  {
+    "﻿No.": "279",
+    "Symbol": "XEL",
+    "Company Name": "Xcel Energy Inc.",
+    "Market Cap": "40810995674",
+    "Stock Price": "74.61",
+    "% Change": "-0.666",
+    "Revenue": "13997000000"
+  },
+  {
+    "﻿No.": "280",
+    "Symbol": "MSCI",
+    "Company Name": "MSCI Inc.",
+    "Market Cap": "40341610241",
+    "Stock Price": "501.12",
+    "% Change": "-1.909",
+    "Revenue": "2178692000"
+  },
+  {
+    "﻿No.": "281",
+    "Symbol": "TRV",
+    "Company Name": "The Travelers Companies, Inc.",
+    "Market Cap": "40060804997",
+    "Stock Price": "168.81",
+    "% Change": "2.303",
+    "Revenue": "35761000000"
+  },
+  {
+    "﻿No.": "282",
+    "Symbol": "RACE",
+    "Company Name": "Ferrari N.V.",
+    "Market Cap": "40049905643",
+    "Stock Price": "215.27",
+    "% Change": "0.126",
+    "Revenue": "4950209473"
+  },
+  {
+    "﻿No.": "283",
+    "Symbol": "HKD",
+    "Company Name": "AMTD Digital, Inc.",
+    "Market Cap": "39968793047",
+    "Stock Price": "215.995",
+    "% Change": "-0.737",
+    "Revenue": "25234020"
+  },
+  {
+    "﻿No.": "284",
+    "Symbol": "DOW",
+    "Company Name": "Dow Inc.",
+    "Market Cap": "39685906430",
+    "Stock Price": "55.26",
+    "% Change": "2.258",
+    "Revenue": "60129000000"
+  },
+  {
+    "﻿No.": "285",
+    "Symbol": "ENPH",
+    "Company Name": "Enphase Energy, Inc.",
+    "Market Cap": "39675350906",
+    "Stock Price": "292.9",
+    "% Change": "-3.413",
+    "Revenue": "1735726000"
+  },
+  {
+    "﻿No.": "286",
+    "Symbol": "AFL",
+    "Company Name": "Aflac Incorporated",
+    "Market Cap": "39583219680",
+    "Stock Price": "62.64",
+    "% Change": "1.507",
+    "Revenue": "21345000000"
+  },
+  {
+    "﻿No.": "287",
+    "Symbol": "BBD",
+    "Company Name": "Banco Bradesco S.A.",
+    "Market Cap": "39436447743",
+    "Stock Price": "3.7",
+    "% Change": "-0.27",
+    "Revenue": "13715542010"
+  },
+  {
+    "﻿No.": "288",
+    "Symbol": "MCHP",
+    "Company Name": "Microchip Technology Inc.",
+    "Market Cap": "39430782937",
+    "Stock Price": "71.37",
+    "% Change": "0.962",
+    "Revenue": "7215100000"
+  },
+  {
+    "﻿No.": "289",
+    "Symbol": "A",
+    "Company Name": "Agilent Technologies, Inc.",
+    "Market Cap": "39414517697",
+    "Stock Price": "131.95",
+    "% Change": "-0.475",
+    "Revenue": "6527000000"
+  },
+  {
+    "﻿No.": "290",
+    "Symbol": "AJG",
+    "Company Name": "Arthur J. Gallagher & Company",
+    "Market Cap": "38954225533",
+    "Stock Price": "185.2",
+    "% Change": "-0.113",
+    "Revenue": "8589200000"
+  },
+  {
+    "﻿No.": "291",
+    "Symbol": "JCI",
+    "Company Name": "Johnson Controls International PLC",
+    "Market Cap": "38821330923",
+    "Stock Price": "56.36",
+    "% Change": "1.641",
+    "Revenue": "24966000000"
+  },
+  {
+    "﻿No.": "292",
+    "Symbol": "PH",
+    "Company Name": "Parker-Hannifin Corporation",
+    "Market Cap": "38801723138",
+    "Stock Price": "302.26",
+    "% Change": "0.858",
+    "Revenue": "15632645000"
+  },
+  {
+    "﻿No.": "293",
+    "Symbol": "ANET",
+    "Company Name": "Arista Networks, Inc.",
+    "Market Cap": "38729019378",
+    "Stock Price": "126.03",
+    "% Change": "-1.13",
+    "Revenue": "3502113000"
+  },
+  {
+    "﻿No.": "294",
+    "Symbol": "LNG",
+    "Company Name": "Cheniere Energy, Inc.",
+    "Market Cap": "38698881584",
+    "Stock Price": "154.93",
+    "% Change": "2.759",
+    "Revenue": "25248000000"
+  },
+  {
+    "﻿No.": "295",
+    "Symbol": "BNTX",
+    "Company Name": "BioNTech SE",
+    "Market Cap": "38540382099",
+    "Stock Price": "158.59",
+    "% Change": "-1.448",
+    "Revenue": "22306210526"
+  },
+  {
+    "﻿No.": "296",
+    "Symbol": "PRU",
+    "Company Name": "Prudential Financial, Inc.",
+    "Market Cap": "38312280000",
+    "Stock Price": "102.99",
+    "% Change": "1.318",
+    "Revenue": "64301000000"
+  },
+  {
+    "﻿No.": "297",
+    "Symbol": "LYG",
+    "Company Name": "Lloyds Banking Group PLC",
+    "Market Cap": "38005956606",
+    "Stock Price": "2.22",
+    "% Change": "-0.448",
+    "Revenue": "49925333333"
+  },
+  {
+    "﻿No.": "298",
+    "Symbol": "DLR",
+    "Company Name": "Digital Realty Trust, Inc.",
+    "Market Cap": "37897015242",
+    "Stock Price": "129.03",
+    "% Change": "-2.619",
+    "Revenue": "4464813000"
+  },
+  {
+    "﻿No.": "299",
+    "Symbol": "WELL",
+    "Company Name": "Welltower Inc.",
+    "Market Cap": "37639544775",
+    "Stock Price": "81.23",
+    "% Change": "-2.497",
+    "Revenue": "5417301000"
+  },
+  {
+    "﻿No.": "300",
+    "Symbol": "SCCO",
+    "Company Name": "Southern Copper Corporation",
+    "Market Cap": "37572267992",
+    "Stock Price": "48.6",
+    "% Change": "0.621",
+    "Revenue": "10575300000"
+  },
+  {
+    "﻿No.": "301",
+    "Symbol": "ING",
+    "Company Name": "ING Group N.V.",
+    "Market Cap": "37366964222",
+    "Stock Price": "9.97",
+    "% Change": "1.013",
+    "Revenue": "21062068965"
+  },
+  {
+    "﻿No.": "302",
+    "Symbol": "NUE",
+    "Company Name": "Nucor Corporation",
+    "Market Cap": "37177798581",
+    "Stock Price": "141.9",
+    "% Change": "0.29",
+    "Revenue": "39960081000"
+  },
+  {
+    "﻿No.": "303",
+    "Symbol": "DLTR",
+    "Company Name": "Dollar Tree, Inc.",
+    "Market Cap": "37134823404",
+    "Stock Price": "165.37",
+    "% Change": "-0.362",
+    "Revenue": "26744100000"
+  },
+  {
+    "﻿No.": "304",
+    "Symbol": "SBAC",
+    "Company Name": "SBA Communications Corporation",
+    "Market Cap": "37055012846",
+    "Stock Price": "343.49",
+    "% Change": "-1.961",
+    "Revenue": "2456219000"
+  },
+  {
+    "﻿No.": "305",
+    "Symbol": "GPN",
+    "Company Name": "Global Payments Inc.",
+    "Market Cap": "37015121855",
+    "Stock Price": "133.55",
+    "% Change": "0.716",
+    "Revenue": "8833478000"
+  },
+  {
+    "﻿No.": "306",
+    "Symbol": "HLT",
+    "Company Name": "Hilton Worldwide Holdings Inc.",
+    "Market Cap": "36943716299",
+    "Stock Price": "134.69",
+    "% Change": "0.771",
+    "Revenue": "7546000000"
+  },
+  {
+    "﻿No.": "307",
+    "Symbol": "TT",
+    "Company Name": "Trane Technologies PLC",
+    "Market Cap": "36759584721",
+    "Stock Price": "158.64",
+    "% Change": "0.43",
+    "Revenue": "14835000000"
+  },
+  {
+    "﻿No.": "308",
+    "Symbol": "APO",
+    "Company Name": "Apollo Global Management, Inc.",
+    "Market Cap": "36534001644",
+    "Stock Price": "60.89",
+    "% Change": "1.5",
+    "Revenue": "5421573000"
+  },
+  {
+    "﻿No.": "309",
+    "Symbol": "DDOG",
+    "Company Name": "Datadog, Inc.",
+    "Market Cap": "36321673142",
+    "Stock Price": "114.78",
+    "% Change": "-2.531",
+    "Revenue": "1365854000"
+  },
+  {
+    "﻿No.": "310",
+    "Symbol": "CARR",
+    "Company Name": "Carrier Global Corporation",
+    "Market Cap": "36230148063",
+    "Stock Price": "43.05",
+    "% Change": "0.443",
+    "Revenue": "20339000000"
+  },
+  {
+    "﻿No.": "311",
+    "Symbol": "TDG",
+    "Company Name": "TransDigm Group Incorporated",
+    "Market Cap": "36121603738",
+    "Stock Price": "661.5",
+    "% Change": "-0.685",
+    "Revenue": "5198000000"
+  },
+  {
+    "﻿No.": "312",
+    "Symbol": "EA",
+    "Company Name": "Electronic Arts, Inc.",
+    "Market Cap": "36056870801",
+    "Stock Price": "129.68",
+    "% Change": "-1.128",
+    "Revenue": "6991000000"
+  },
+  {
+    "﻿No.": "313",
+    "Symbol": "NEM",
+    "Company Name": "Newmont Corporation",
+    "Market Cap": "35953749979",
+    "Stock Price": "45.3",
+    "% Change": "-0.962",
+    "Revenue": "12366000000"
+  },
+  {
+    "﻿No.": "314",
+    "Symbol": "BK",
+    "Company Name": "Bank of New York Mellon Corporation",
+    "Market Cap": "35855527935",
+    "Stock Price": "44.37",
+    "% Change": "0.864",
+    "Revenue": "15936000000"
+  },
+  {
+    "﻿No.": "315",
+    "Symbol": "CVE",
+    "Company Name": "Cenovus Energy Inc.",
+    "Market Cap": "35839361020",
+    "Stock Price": "18.56",
+    "% Change": "7.098",
+    "Revenue": "48056589147"
+  },
+  {
+    "﻿No.": "316",
+    "Symbol": "BF.B",
+    "Company Name": "Brown-Forman Corporation",
+    "Market Cap": "35793932624",
+    "Stock Price": "75.45",
+    "% Change": "-0.632",
+    "Revenue": "3933000000"
+  },
+  {
+    "﻿No.": "317",
+    "Symbol": "BF.A",
+    "Company Name": "Brown-Forman Corporation",
+    "Market Cap": "35766043013",
+    "Stock Price": "73.31",
+    "% Change": "-0.624",
+    "Revenue": "3933000000"
+  },
+  {
+    "﻿No.": "318",
+    "Symbol": "WCN",
+    "Company Name": "Waste Connections, Inc.",
+    "Market Cap": "35738218382",
+    "Stock Price": "138.97",
+    "% Change": "-0.736",
+    "Revenue": "6684177000"
+  },
+  {
+    "﻿No.": "319",
+    "Symbol": "MFC",
+    "Company Name": "Manulife Financial Corporation",
+    "Market Cap": "35737571327",
+    "Stock Price": "18.7",
+    "% Change": "-1.371",
+    "Revenue": "47450793650"
+  },
+  {
+    "﻿No.": "320",
+    "Symbol": "ILMN",
+    "Company Name": "Illumina, Inc.",
+    "Market Cap": "35730825137",
+    "Stock Price": "227.44",
+    "% Change": "0.062",
+    "Revenue": "4656000000"
+  },
+  {
+    "﻿No.": "321",
+    "Symbol": "CTSH",
+    "Company Name": "Cognizant Technology Solutions",
+    "Market Cap": "35582185406",
+    "Stock Price": "68.72",
+    "% Change": "-0.463",
+    "Revenue": "19253000000"
+  },
+  {
+    "﻿No.": "322",
+    "Symbol": "ET",
+    "Company Name": "Energy Transfer LP",
+    "Market Cap": "35469287414",
+    "Stock Price": "11.49",
+    "% Change": "1.952",
+    "Revenue": "81757000000"
+  },
+  {
+    "﻿No.": "323",
+    "Symbol": "HPQ",
+    "Company Name": "HP Inc.",
+    "Market Cap": "35388272613",
+    "Stock Price": "34.22",
+    "% Change": "0.706",
+    "Revenue": "65482000000"
+  },
+  {
+    "﻿No.": "324",
+    "Symbol": "ODFL",
+    "Company Name": "Old Dominion Freight Line, Inc.",
+    "Market Cap": "35252404067",
+    "Stock Price": "315.39",
+    "% Change": "0.003",
+    "Revenue": "5975132000"
+  },
+  {
+    "﻿No.": "325",
+    "Symbol": "RMD",
+    "Company Name": "ResMed Inc.",
+    "Market Cap": "35232739118",
+    "Stock Price": "240.85",
+    "% Change": "-1.121",
+    "Revenue": "3539492000"
+  },
+  {
+    "﻿No.": "326",
+    "Symbol": "DELL",
+    "Company Name": "Dell Technologies Inc.",
+    "Market Cap": "35201056752",
+    "Stock Price": "47.6",
+    "% Change": "0.783",
+    "Revenue": "1.02826E+11"
+  },
+  {
+    "﻿No.": "327",
+    "Symbol": "ED",
+    "Company Name": "Consolidated Edison, Inc.",
+    "Market Cap": "34919239594",
+    "Stock Price": "98.48",
+    "% Change": "-0.515",
+    "Revenue": "14503000000"
+  },
+  {
+    "﻿No.": "328",
+    "Symbol": "TTD",
+    "Company Name": "The Trade Desk, Inc.",
+    "Market Cap": "34816077767",
+    "Stock Price": "71.59",
+    "% Change": "-3.57",
+    "Revenue": "1388974000"
+  },
+  {
+    "﻿No.": "329",
+    "Symbol": "VEEV",
+    "Company Name": "Veeva Systems Inc.",
+    "Market Cap": "34786377651",
+    "Stock Price": "224.65",
+    "% Change": "-1.508",
+    "Revenue": "1922306000"
+  },
+  {
+    "﻿No.": "330",
+    "Symbol": "NIO",
+    "Company Name": "NIO Inc.",
+    "Market Cap": "34780434412",
+    "Stock Price": "20.82",
+    "% Change": "3.84",
+    "Revenue": "5947605937"
+  },
+  {
+    "﻿No.": "331",
+    "Symbol": "HES",
+    "Company Name": "Hess Corporation",
+    "Market Cap": "34720227221",
+    "Stock Price": "112.14",
+    "% Change": "4.229",
+    "Revenue": "9425000000"
+  },
+  {
+    "﻿No.": "332",
+    "Symbol": "WBA",
+    "Company Name": "Walgreens Boots Alliance, Inc.",
+    "Market Cap": "34630778871",
+    "Stock Price": "40.07",
+    "% Change": "0.426",
+    "Revenue": "1.34516E+11"
+  },
+  {
+    "﻿No.": "333",
+    "Symbol": "RIVN",
+    "Company Name": "Rivian Automotive, Inc.",
+    "Market Cap": "34408431596",
+    "Stock Price": "38.95",
+    "% Change": "4.144",
+    "Revenue": "55000000"
+  },
+  {
+    "﻿No.": "334",
+    "Symbol": "STM",
+    "Company Name": "STMicroelectronics N.V.",
+    "Market Cap": "34399772670",
+    "Stock Price": "37.66",
+    "% Change": "-0.37",
+    "Revenue": "14136000000"
+  },
+  {
+    "﻿No.": "335",
+    "Symbol": "DXCM",
+    "Company Name": "DexCom, Inc.",
+    "Market Cap": "34376716209",
+    "Stock Price": "88.24",
+    "% Change": "-1.661",
+    "Revenue": "2673400000"
+  },
+  {
+    "﻿No.": "336",
+    "Symbol": "ALL",
+    "Company Name": "The Allstate Corporation",
+    "Market Cap": "34311374747",
+    "Stock Price": "126.94",
+    "% Change": "2.545",
+    "Revenue": "50048000000"
+  },
+  {
+    "﻿No.": "337",
+    "Symbol": "BCS",
+    "Company Name": "Barclays PLC",
+    "Market Cap": "34261622781",
+    "Stock Price": "8.45",
+    "% Change": "1.056",
+    "Revenue": "28535365853"
+  },
+  {
+    "﻿No.": "338",
+    "Symbol": "ALC",
+    "Company Name": "Alcon, Inc.",
+    "Market Cap": "34090450885",
+    "Stock Price": "69.56",
+    "% Change": "-3.308",
+    "Revenue": "8550000000"
+  },
+  {
+    "﻿No.": "339",
+    "Symbol": "OTIS",
+    "Company Name": "Otis Worldwide Corporation",
+    "Market Cap": "33870698474",
+    "Stock Price": "80.6",
+    "% Change": "0.876",
+    "Revenue": "14091000000"
+  },
+  {
+    "﻿No.": "340",
+    "Symbol": "KR",
+    "Company Name": "The Kroger Company",
+    "Market Cap": "33767274465",
+    "Stock Price": "47.19",
+    "% Change": "0.855",
+    "Revenue": "1.4119E+11"
+  },
+  {
+    "﻿No.": "341",
+    "Symbol": "PUK",
+    "Company Name": "Prudential PLC",
+    "Market Cap": "33651675135",
+    "Stock Price": "24.48",
+    "% Change": "-0.851",
+    "Revenue": "26500000000"
+  },
+  {
+    "﻿No.": "342",
+    "Symbol": "TWTR",
+    "Company Name": "Twitter, Inc.",
+    "Market Cap": "33624909811",
+    "Stock Price": "43.94",
+    "% Change": "-1.103",
+    "Revenue": "5228681000"
+  },
+  {
+    "﻿No.": "343",
+    "Symbol": "VICI",
+    "Company Name": "VICI Properties Inc.",
+    "Market Cap": "33534898155",
+    "Stock Price": "34.82",
+    "% Change": "0.029",
+    "Revenue": "1838106000"
+  },
+  {
+    "﻿No.": "344",
+    "Symbol": "YUM",
+    "Company Name": "Yum! Brands, Inc.",
+    "Market Cap": "33493440467",
+    "Stock Price": "117.71",
+    "% Change": "-1.233",
+    "Revenue": "6679000000"
+  },
+  {
+    "﻿No.": "345",
+    "Symbol": "NWG",
+    "Company Name": "NatWest Group PLC",
+    "Market Cap": "33299648512",
+    "Stock Price": "6.4",
+    "% Change": "-0.156",
+    "Revenue": "11549000000"
+  },
+  {
+    "﻿No.": "346",
+    "Symbol": "PEG",
+    "Company Name": "Public Service Enterprise Group, Inc.",
+    "Market Cap": "33268975600",
+    "Stock Price": "66.69",
+    "% Change": "0.15",
+    "Revenue": "9348000000"
+  },
+  {
+    "﻿No.": "347",
+    "Symbol": "WBD",
+    "Company Name": "Warner Bros. Discovery, Inc.",
+    "Market Cap": "33209430009",
+    "Stock Price": "13.68",
+    "% Change": "4.427",
+    "Revenue": "19323000000"
+  },
+  {
+    "﻿No.": "348",
+    "Symbol": "IDXX",
+    "Company Name": "IDEXX Laboratories, Inc.",
+    "Market Cap": "33025074939",
+    "Stock Price": "396.68",
+    "% Change": "-0.902",
+    "Revenue": "3308606000"
+  },
+  {
+    "﻿No.": "349",
+    "Symbol": "CPNG",
+    "Company Name": "Coupang, Inc.",
+    "Market Cap": "32957442047",
+    "Stock Price": "18.7",
+    "% Change": "-5.364",
+    "Revenue": "19316198000"
+  },
+  {
+    "﻿No.": "350",
+    "Symbol": "WEC",
+    "Company Name": "WEC Energy Group, Inc.",
+    "Market Cap": "32909334488",
+    "Stock Price": "104.33",
+    "% Change": "-0.108",
+    "Revenue": "8984400000"
+  },
+  {
+    "﻿No.": "351",
+    "Symbol": "MTB",
+    "Company Name": "M&T Bank Corporation",
+    "Market Cap": "32816987993",
+    "Stock Price": "186.87",
+    "% Change": "1.109",
+    "Revenue": "6199684000"
+  },
+  {
+    "﻿No.": "352",
+    "Symbol": "MPLX",
+    "Company Name": "MPLX LP",
+    "Market Cap": "32572596193",
+    "Stock Price": "32.18",
+    "% Change": "1.803",
+    "Revenue": "10843000000"
+  },
+  {
+    "﻿No.": "353",
+    "Symbol": "PCAR",
+    "Company Name": "PACCAR Inc",
+    "Market Cap": "32337866721",
+    "Stock Price": "93",
+    "% Change": "-0.268",
+    "Revenue": "25464200000"
+  },
+  {
+    "﻿No.": "354",
+    "Symbol": "TU",
+    "Company Name": "TELUS Corporation",
+    "Market Cap": "32242849788",
+    "Stock Price": "23.35",
+    "% Change": "1.345",
+    "Revenue": "13803100775"
+  },
+  {
+    "﻿No.": "355",
+    "Symbol": "ZM",
+    "Company Name": "Zoom Video Communications, Inc.",
+    "Market Cap": "32242724842",
+    "Stock Price": "108.06",
+    "% Change": "-3.526",
+    "Revenue": "4217427000"
+  },
+  {
+    "﻿No.": "356",
+    "Symbol": "CHT",
+    "Company Name": "Chunghwa Telecom Co. Ltd.",
+    "Market Cap": "32208932856",
+    "Stock Price": "41.52",
+    "% Change": "0.484",
+    "Revenue": "7375322090"
+  },
+  {
+    "﻿No.": "357",
+    "Symbol": "SGEN",
+    "Company Name": "Seagen, Inc.",
+    "Market Cap": "32099067748",
+    "Stock Price": "174.04",
+    "% Change": "-0.917",
+    "Revenue": "1777873000"
+  },
+  {
+    "﻿No.": "358",
+    "Symbol": "LI",
+    "Company Name": "Li Auto, Inc.",
+    "Market Cap": "31786465271",
+    "Stock Price": "32.71",
+    "% Change": "3.775",
+    "Revenue": "5155720937"
+  },
+  {
+    "﻿No.": "359",
+    "Symbol": "ES",
+    "Company Name": "Eversource Energy",
+    "Market Cap": "31737644970",
+    "Stock Price": "91.61",
+    "% Change": "-0.044",
+    "Revenue": "10958658000"
+  },
+  {
+    "﻿No.": "360",
+    "Symbol": "BIIB",
+    "Company Name": "Biogen Inc.",
+    "Market Cap": "31666556896",
+    "Stock Price": "218.22",
+    "% Change": "-1.276",
+    "Revenue": "10633600000"
+  },
+  {
+    "﻿No.": "361",
+    "Symbol": "CMI",
+    "Company Name": "Cummins Inc.",
+    "Market Cap": "31565289407",
+    "Stock Price": "223.88",
+    "% Change": "0.897",
+    "Revenue": "24789000000"
+  },
+  {
+    "﻿No.": "362",
+    "Symbol": "VRSK",
+    "Company Name": "Verisk Analytics, Inc.",
+    "Market Cap": "31533262794",
+    "Stock Price": "200.9",
+    "% Change": "-0.618",
+    "Revenue": "3046800000"
+  },
+  {
+    "﻿No.": "363",
+    "Symbol": "GLW",
+    "Company Name": "Corning Incorporated",
+    "Market Cap": "31395110891",
+    "Stock Price": "37.14",
+    "% Change": "0.924",
+    "Revenue": "14586000000"
+  },
+  {
+    "﻿No.": "364",
+    "Symbol": "FAST",
+    "Company Name": "Fastenal Company",
+    "Market Cap": "31354484712",
+    "Stock Price": "54.56",
+    "% Change": "0.239",
+    "Revenue": "6568800000"
+  },
+  {
+    "﻿No.": "365",
+    "Symbol": "PPG",
+    "Company Name": "PPG Industries, Inc.",
+    "Market Cap": "31334498246",
+    "Stock Price": "133.34",
+    "% Change": "-0.15",
+    "Revenue": "17561000000"
+  },
+  {
+    "﻿No.": "366",
+    "Symbol": "GFS",
+    "Company Name": "GlobalFoundries Inc.",
+    "Market Cap": "31332368381",
+    "Stock Price": "58.05",
+    "% Change": "0.607",
+    "Revenue": "7480079000"
+  },
+  {
+    "﻿No.": "367",
+    "Symbol": "IFF",
+    "Company Name": "International Flavors & Fragrances, Inc.",
+    "Market Cap": "31162173398",
+    "Stock Price": "122.23",
+    "% Change": "-0.666",
+    "Revenue": "12635000000"
+  },
+  {
+    "﻿No.": "368",
+    "Symbol": "DD",
+    "Company Name": "DuPont de Nemours, Inc.",
+    "Market Cap": "31146088411",
+    "Stock Price": "62.18",
+    "% Change": "2.371",
+    "Revenue": "15138000000"
+  },
+  {
+    "﻿No.": "369",
+    "Symbol": "ALB",
+    "Company Name": "Albemarle Corporation",
+    "Market Cap": "31121176362",
+    "Stock Price": "265.7",
+    "% Change": "2.468",
+    "Revenue": "4332091000"
+  },
+  {
+    "﻿No.": "370",
+    "Symbol": "BBVA",
+    "Company Name": "Banco Bilbao Vizcaya Argentaria S.A.",
+    "Market Cap": "31014342651",
+    "Stock Price": "4.85",
+    "% Change": "0.207",
+    "Revenue": ""
+  },
+  {
+    "﻿No.": "371",
+    "Symbol": "ROST",
+    "Company Name": "Ross Stores, Inc.",
+    "Market Cap": "30845978574",
+    "Stock Price": "88.15",
+    "% Change": "2.286",
+    "Revenue": "18733264000"
+  },
+  {
+    "﻿No.": "372",
+    "Symbol": "ABC",
+    "Company Name": "AmerisourceBergen Corporation",
+    "Market Cap": "30719780760",
+    "Stock Price": "148.22",
+    "% Change": "1.813",
+    "Revenue": "2.36325E+11"
+  },
+  {
+    "﻿No.": "373",
+    "Symbol": "EQR",
+    "Company Name": "Equity Residential",
+    "Market Cap": "30678358014",
+    "Stock Price": "78.63",
+    "% Change": "0",
+    "Revenue": "2608714000"
+  },
+  {
+    "﻿No.": "374",
+    "Symbol": "MFG",
+    "Company Name": "Mizuho Financial Group, Inc.",
+    "Market Cap": "30656561151",
+    "Stock Price": "2.42",
+    "% Change": "0.415",
+    "Revenue": "12511821164"
+  },
+  {
+    "﻿No.": "375",
+    "Symbol": "TLK",
+    "Company Name": "Telkom Indonesia",
+    "Market Cap": "30653093875",
+    "Stock Price": "30.94",
+    "% Change": "0.946",
+    "Revenue": "10053422628"
+  },
+  {
+    "﻿No.": "376",
+    "Symbol": "AMP",
+    "Company Name": "Ameriprise Financial, Inc.",
+    "Market Cap": "30645591969",
+    "Stock Price": "283.32",
+    "% Change": "0.862",
+    "Revenue": "13826000000"
+  },
+  {
+    "﻿No.": "377",
+    "Symbol": "NDAQ",
+    "Company Name": "Nasdaq, Inc.",
+    "Market Cap": "30549346245",
+    "Stock Price": "186.57",
+    "% Change": "-0.016",
+    "Revenue": "5911000000"
+  },
+  {
+    "﻿No.": "378",
+    "Symbol": "CPRT",
+    "Company Name": "Copart, Inc.",
+    "Market Cap": "30543355816",
+    "Stock Price": "128.51",
+    "% Change": "-0.186",
+    "Revenue": "3366163000"
+  },
+  {
+    "﻿No.": "379",
+    "Symbol": "FRC",
+    "Company Name": "First Republic Bank",
+    "Market Cap": "30327035865",
+    "Stock Price": "165.98",
+    "% Change": "1.935",
+    "Revenue": ""
+  },
+  {
+    "﻿No.": "380",
+    "Symbol": "MTD",
+    "Company Name": "Mettler-Toledo International, Inc.",
+    "Market Cap": "30311665160",
+    "Stock Price": "1346.79",
+    "% Change": "0.001",
+    "Revenue": "3865367000"
+  },
+  {
+    "﻿No.": "381",
+    "Symbol": "LCID",
+    "Company Name": "Lucid Group, Inc.",
+    "Market Cap": "30261133297",
+    "Stock Price": "18.09",
+    "% Change": "-0.714",
+    "Revenue": "181635000"
+  },
+  {
+    "﻿No.": "382",
+    "Symbol": "BAX",
+    "Company Name": "Baxter International, Inc.",
+    "Market Cap": "30201552869",
+    "Stock Price": "59.97",
+    "% Change": "0.117",
+    "Revenue": "14193000000"
+  },
+  {
+    "﻿No.": "383",
+    "Symbol": "AVB",
+    "Company Name": "AvalonBay Communities, Inc.",
+    "Market Cap": "30074853200",
+    "Stock Price": "215.08",
+    "% Change": "0.636",
+    "Revenue": "2440457000"
+  },
+  {
+    "﻿No.": "384",
+    "Symbol": "DASH",
+    "Company Name": "DoorDash, Inc.",
+    "Market Cap": "30071771122",
+    "Stock Price": "77.89",
+    "% Change": "-3.362",
+    "Revenue": "5639000000"
+  },
+  {
+    "﻿No.": "385",
+    "Symbol": "KEYS",
+    "Company Name": "Keysight Technologies Inc.",
+    "Market Cap": "30000596953",
+    "Stock Price": "166.72",
+    "% Change": "0.096",
+    "Revenue": "5141000000"
+  },
+  {
+    "﻿No.": "386",
+    "Symbol": "LYB",
+    "Company Name": "LyondellBasell Industries NV",
+    "Market Cap": "29818492836",
+    "Stock Price": "91.41",
+    "% Change": "2.708",
+    "Revenue": "53525000000"
+  },
+  {
+    "﻿No.": "387",
+    "Symbol": "CRH",
+    "Company Name": "CRH Plc",
+    "Market Cap": "29814153206",
+    "Stock Price": "39.37",
+    "% Change": "-0.025",
+    "Revenue": "30981000000"
+  },
+  {
+    "﻿No.": "388",
+    "Symbol": "WIT",
+    "Company Name": "Wipro Limited",
+    "Market Cap": "29701177339",
+    "Stock Price": "5.43",
+    "% Change": "-0.731",
+    "Revenue": "10506326530"
+  },
+  {
+    "﻿No.": "389",
+    "Symbol": "DFS",
+    "Company Name": "Discover Financial Services",
+    "Market Cap": "29641787380",
+    "Stock Price": "108.51",
+    "% Change": "0.491",
+    "Revenue": "10688000000"
+  },
+  {
+    "﻿No.": "390",
+    "Symbol": "RPRX",
+    "Company Name": "Royalty Pharma PLC",
+    "Market Cap": "29538928605",
+    "Stock Price": "43.7",
+    "% Change": "-0.501",
+    "Revenue": "2259477000"
+  },
+  {
+    "﻿No.": "391",
+    "Symbol": "NOK",
+    "Company Name": "Nokia Corporation",
+    "Market Cap": "29488809983",
+    "Stock Price": "5.21",
+    "% Change": "0",
+    "Revenue": "25229545454"
+  },
+  {
+    "﻿No.": "392",
+    "Symbol": "APTV",
+    "Company Name": "Aptiv PLC",
+    "Market Cap": "29431449508",
+    "Stock Price": "108.63",
+    "% Change": "3.133",
+    "Revenue": "16023000000"
+  },
+  {
+    "﻿No.": "393",
+    "Symbol": "RBLX",
+    "Company Name": "Roblox Corporation",
+    "Market Cap": "29398646765",
+    "Stock Price": "49.56",
+    "% Change": "3.228",
+    "Revenue": "2206446000"
+  },
+  {
+    "﻿No.": "394",
+    "Symbol": "PCG",
+    "Company Name": "PG&E Corporation",
+    "Market Cap": "29363034100",
+    "Stock Price": "11.91",
+    "% Change": "3.206",
+    "Revenue": "21627000000"
+  },
+  {
+    "﻿No.": "395",
+    "Symbol": "IMO",
+    "Company Name": "Imperial Oil Ltd.",
+    "Market Cap": "29331660786",
+    "Stock Price": "46.07",
+    "% Change": "4.728",
+    "Revenue": "40727131782"
+  },
+  {
+    "﻿No.": "396",
+    "Symbol": "CSGP",
+    "Company Name": "CoStar Group, Inc.",
+    "Market Cap": "29244792770",
+    "Stock Price": "73.86",
+    "% Change": "-1.164",
+    "Revenue": "2058238000"
+  },
+  {
+    "﻿No.": "397",
+    "Symbol": "TROW",
+    "Company Name": "T. Rowe Price Group, Inc.",
+    "Market Cap": "29229369236",
+    "Stock Price": "129.51",
+    "% Change": "-0.277",
+    "Revenue": "7291800000"
+  },
+  {
+    "﻿No.": "398",
+    "Symbol": "AME",
+    "Company Name": "AMETEK, Inc.",
+    "Market Cap": "29197729785",
+    "Stock Price": "127.18",
+    "% Change": "0.094",
+    "Revenue": "5917503000"
+  },
+  {
+    "﻿No.": "399",
+    "Symbol": "ROK",
+    "Company Name": "Rockwell Automation, Inc.",
+    "Market Cap": "29195818935",
+    "Stock Price": "252.92",
+    "% Change": "-0.272",
+    "Revenue": "7441900000"
+  },
+  {
+    "﻿No.": "400",
+    "Symbol": "EXR",
+    "Company Name": "Extra Space Storage, Inc.",
+    "Market Cap": "29131581357",
+    "Stock Price": "207.45",
+    "% Change": "0.295",
+    "Revenue": "1758425000"
+  },
+  {
+    "﻿No.": "401",
+    "Symbol": "SQM",
+    "Company Name": "Sociedad Quimica y Minera de Chile S.A.",
+    "Market Cap": "29072236454",
+    "Stock Price": "101.78",
+    "% Change": "0.653",
+    "Revenue": "2862315000"
+  },
+  {
+    "﻿No.": "402",
+    "Symbol": "GOLD",
+    "Company Name": "Barrick Gold Corporation",
+    "Market Cap": "29043415032",
+    "Stock Price": "16.4",
+    "% Change": "-0.786",
+    "Revenue": "11848000000"
+  },
+  {
+    "﻿No.": "403",
+    "Symbol": "HLN",
+    "Company Name": "Haleon plc",
+    "Market Cap": "29042755578",
+    "Stock Price": "6.29",
+    "% Change": "-3.379",
+    "Revenue": "12726666666"
+  },
+  {
+    "﻿No.": "404",
+    "Symbol": "OKE",
+    "Company Name": "ONEOK, Inc.",
+    "Market Cap": "29027829745",
+    "Stock Price": "64.96",
+    "% Change": "4.337",
+    "Revenue": "21397996000"
+  },
+  {
+    "﻿No.": "405",
+    "Symbol": "TSN",
+    "Company Name": "Tyson Foods, Inc.",
+    "Market Cap": "29018304485",
+    "Stock Price": "80.69",
+    "% Change": "1.676",
+    "Revenue": "52356000000"
+  },
+  {
+    "﻿No.": "406",
+    "Symbol": "GWW",
+    "Company Name": "W.W. Grainger, Inc.",
+    "Market Cap": "28811411132",
+    "Stock Price": "566.36",
+    "% Change": "0.246",
+    "Revenue": "14215000000"
+  },
+  {
+    "﻿No.": "407",
+    "Symbol": "LVS",
+    "Company Name": "Las Vegas Sands Corp.",
+    "Market Cap": "28801040356",
+    "Stock Price": "37.69",
+    "% Change": "2.838",
+    "Revenue": "3853000000"
+  },
+  {
+    "﻿No.": "408",
+    "Symbol": "ON",
+    "Company Name": "ON Semiconductor Corporation",
+    "Market Cap": "28749541358",
+    "Stock Price": "66.36",
+    "% Change": "0.242",
+    "Revenue": "7618200000"
+  },
+  {
+    "﻿No.": "409",
+    "Symbol": "AWK",
+    "Company Name": "American Water Works Company, Inc.",
+    "Market Cap": "28213186423",
+    "Stock Price": "155.2",
+    "% Change": "-1.001",
+    "Revenue": "3822000000"
+  },
+  {
+    "﻿No.": "410",
+    "Symbol": "SLF",
+    "Company Name": "Sun Life Financial Inc.",
+    "Market Cap": "28026345456",
+    "Stock Price": "47.82",
+    "% Change": "0.589",
+    "Revenue": "18524031007"
+  },
+  {
+    "﻿No.": "411",
+    "Symbol": "ALNY",
+    "Company Name": "Alnylam Pharmaceuticals, Inc.",
+    "Market Cap": "27532992383",
+    "Stock Price": "229.39",
+    "% Change": "-1.125",
+    "Revenue": "884245000"
+  },
+  {
+    "﻿No.": "412",
+    "Symbol": "ORAN",
+    "Company Name": "Orange S.A.",
+    "Market Cap": "27491682296",
+    "Stock Price": "10.34",
+    "% Change": "-0.193",
+    "Revenue": "48320454545"
+  },
+  {
+    "﻿No.": "413",
+    "Symbol": "CBRE",
+    "Company Name": "CBRE Group, Inc.",
+    "Market Cap": "27411945447",
+    "Stock Price": "85.35",
+    "% Change": "0.082",
+    "Revenue": "30452755000"
+  },
+  {
+    "﻿No.": "414",
+    "Symbol": "DHI",
+    "Company Name": "D.R. Horton, Inc.",
+    "Market Cap": "27346753519",
+    "Stock Price": "78.7",
+    "% Change": "0.357",
+    "Revenue": "31949800000"
+  },
+  {
+    "﻿No.": "415",
+    "Symbol": "ARE",
+    "Company Name": "Alexandria Real Estate Equities, Inc.",
+    "Market Cap": "27244160960",
+    "Stock Price": "166.97",
+    "% Change": "0.246",
+    "Revenue": "2383511000"
+  },
+  {
+    "﻿No.": "416",
+    "Symbol": "HRL",
+    "Company Name": "Hormel Foods Corporation",
+    "Market Cap": "27089838060",
+    "Stock Price": "49.61",
+    "% Change": "-0.481",
+    "Revenue": "12459338000"
+  },
+  {
+    "﻿No.": "417",
+    "Symbol": "STT",
+    "Company Name": "State Street Corporation",
+    "Market Cap": "27023673278",
+    "Stock Price": "73.51",
+    "% Change": "1.365",
+    "Revenue": "12077000000"
+  },
+  {
+    "﻿No.": "418",
+    "Symbol": "WY",
+    "Company Name": "Weyerhaeuser Company",
+    "Market Cap": "26969675741",
+    "Stock Price": "36.43",
+    "% Change": "0.97",
+    "Revenue": "10636000000"
+  },
+  {
+    "﻿No.": "419",
+    "Symbol": "QSR",
+    "Company Name": "Restaurant Brands International Inc.",
+    "Market Cap": "26911168511",
+    "Stock Price": "60.31",
+    "% Change": "0.617",
+    "Revenue": "6131000000"
+  },
+  {
+    "﻿No.": "420",
+    "Symbol": "SIVB",
+    "Company Name": "SVB Financial Group",
+    "Market Cap": "26894853783",
+    "Stock Price": "455.21",
+    "% Change": "0.657",
+    "Revenue": "5997000000"
+  },
+  {
+    "﻿No.": "421",
+    "Symbol": "HAL",
+    "Company Name": "Halliburton Company",
+    "Market Cap": "26818334700",
+    "Stock Price": "29.57",
+    "% Change": "4.083",
+    "Revenue": "17495000000"
+  },
+  {
+    "﻿No.": "422",
+    "Symbol": "UDR",
+    "Company Name": "UDR, Inc.",
+    "Market Cap": "26817157118",
+    "Stock Price": "49.19",
+    "% Change": "0.02",
+    "Revenue": "1404411000"
+  },
+  {
+    "﻿No.": "423",
+    "Symbol": "EFX",
+    "Company Name": "Equifax, Inc.",
+    "Market Cap": "26719920000",
+    "Stock Price": "218.3",
+    "% Change": "-0.574",
+    "Revenue": "5156000000"
+  },
+  {
+    "﻿No.": "424",
+    "Symbol": "EBAY",
+    "Company Name": "eBay Inc.",
+    "Market Cap": "26682804197",
+    "Stock Price": "48.57",
+    "% Change": "0.144",
+    "Revenue": "10019000000"
+  },
+  {
+    "﻿No.": "425",
+    "Symbol": "FERG",
+    "Company Name": "Ferguson PLC",
+    "Market Cap": "26640607111",
+    "Stock Price": "126.07",
+    "% Change": "-0.521",
+    "Revenue": ""
+  },
+  {
+    "﻿No.": "426",
+    "Symbol": "IBKR",
+    "Company Name": "Interactive Brokers Group, Inc.",
+    "Market Cap": "26483472381",
+    "Stock Price": "63.54",
+    "% Change": "2.253",
+    "Revenue": "2466000000"
+  },
+  {
+    "﻿No.": "427",
+    "Symbol": "ERIC",
+    "Company Name": "Ericsson",
+    "Market Cap": "26422470649",
+    "Stock Price": "7.72",
+    "% Change": "-0.771",
+    "Revenue": "25812666666"
+  },
+  {
+    "﻿No.": "428",
+    "Symbol": "CAJ",
+    "Company Name": "Canon, Inc.",
+    "Market Cap": "26340935678",
+    "Stock Price": "25.57",
+    "% Change": "0.314",
+    "Revenue": "29122690730"
+  },
+  {
+    "﻿No.": "429",
+    "Symbol": "EIX",
+    "Company Name": "Edison International",
+    "Market Cap": "26318807034",
+    "Stock Price": "69",
+    "% Change": "1.307",
+    "Revenue": "16606000000"
+  },
+  {
+    "﻿No.": "430",
+    "Symbol": "SIRI",
+    "Company Name": "Sirius XM Holdings Inc.",
+    "Market Cap": "26208100350",
+    "Stock Price": "6.73",
+    "% Change": "-0.148",
+    "Revenue": "8918000000"
+  },
+  {
+    "﻿No.": "431",
+    "Symbol": "DTE",
+    "Company Name": "DTE Energy Company",
+    "Market Cap": "25830821813",
+    "Stock Price": "133.33",
+    "% Change": "0.809",
+    "Revenue": "17863000000"
+  },
+  {
+    "﻿No.": "432",
+    "Symbol": "CEG",
+    "Company Name": "Constellation Energy Corporation",
+    "Market Cap": "25765191665",
+    "Stock Price": "78.83",
+    "% Change": "2.217",
+    "Revenue": ""
+  },
+  {
+    "﻿No.": "433",
+    "Symbol": "BKR",
+    "Company Name": "Baker Hughes Company",
+    "Market Cap": "25754001390",
+    "Stock Price": "25.28",
+    "% Change": "3.819",
+    "Revenue": "20460000000"
+  },
+  {
+    "﻿No.": "434",
+    "Symbol": "K",
+    "Company Name": "Kellogg Company",
+    "Market Cap": "25641117637",
+    "Stock Price": "75.39",
+    "% Change": "-0.159",
+    "Revenue": "14578000000"
+  },
+  {
+    "﻿No.": "435",
+    "Symbol": "TEF",
+    "Company Name": "Telefonica S.A.",
+    "Market Cap": "25584312318",
+    "Stock Price": "4.43",
+    "% Change": "0.226",
+    "Revenue": "44632954545"
+  },
+  {
+    "﻿No.": "436",
+    "Symbol": "FITB",
+    "Company Name": "Fifth Third Bancorp",
+    "Market Cap": "25443928055",
+    "Stock Price": "37.08",
+    "% Change": "2.544",
+    "Revenue": "7772000000"
+  },
+  {
+    "﻿No.": "437",
+    "Symbol": "BEP",
+    "Company Name": "Brookfield Renewable Partners L.P.",
+    "Market Cap": "25357772766",
+    "Stock Price": "39.82",
+    "% Change": "-1.216",
+    "Revenue": "4467000000"
+  },
+  {
+    "﻿No.": "438",
+    "Symbol": "ZS",
+    "Company Name": "Zscaler, Inc.",
+    "Market Cap": "25352339410",
+    "Stock Price": "178.71",
+    "% Change": "-0.942",
+    "Revenue": "969961000"
+  },
+  {
+    "﻿No.": "439",
+    "Symbol": "MDB",
+    "Company Name": "MongoDB, Inc.",
+    "Market Cap": "25118087031",
+    "Stock Price": "368.76",
+    "% Change": "-3.037",
+    "Revenue": "977581000"
+  },
+  {
+    "﻿No.": "440",
+    "Symbol": "FNV",
+    "Company Name": "Franco-Nevada Corporation",
+    "Market Cap": "25042114441",
+    "Stock Price": "130.73",
+    "% Change": "-2.287",
+    "Revenue": "1329900000"
+  },
+  {
+    "﻿No.": "441",
+    "Symbol": "WST",
+    "Company Name": "West Pharmaceutical Services, Inc.",
+    "Market Cap": "25009710986",
+    "Stock Price": "337.75",
+    "% Change": "-0.322",
+    "Revenue": "2928600000"
+  },
+  {
+    "﻿No.": "442",
+    "Symbol": "EPAM",
+    "Company Name": "EPAM Systems, Inc.",
+    "Market Cap": "24989812678",
+    "Stock Price": "435.61",
+    "% Change": "-1.204",
+    "Revenue": "4462478000"
+  },
+  {
+    "﻿No.": "443",
+    "Symbol": "CLR",
+    "Company Name": "Continental Resources, Inc.",
+    "Market Cap": "24890978295",
+    "Stock Price": "68.57",
+    "% Change": "1.39",
+    "Revenue": "7735090000"
+  },
+  {
+    "﻿No.": "444",
+    "Symbol": "LEN",
+    "Company Name": "Lennar Corporation",
+    "Market Cap": "24888649644",
+    "Stock Price": "87.76",
+    "% Change": "0.55",
+    "Revenue": "29937175000"
+  },
+  {
+    "﻿No.": "445",
+    "Symbol": "DRE",
+    "Company Name": "Duke Realty Corporation",
+    "Market Cap": "24642736100",
+    "Stock Price": "63.39",
+    "% Change": "-0.158",
+    "Revenue": "1094794000"
+  },
+  {
+    "﻿No.": "446",
+    "Symbol": "GMAB",
+    "Company Name": "Genmab A/S",
+    "Market Cap": "24628279263",
+    "Stock Price": "37.7",
+    "% Change": "5.632",
+    "Revenue": "1326470588"
+  },
+  {
+    "﻿No.": "447",
+    "Symbol": "NET",
+    "Company Name": "Cloudflare, Inc.",
+    "Market Cap": "24543125501",
+    "Stock Price": "74.95",
+    "% Change": "-4.656",
+    "Revenue": "812627000"
+  },
+  {
+    "﻿No.": "448",
+    "Symbol": "ANSS",
+    "Company Name": "ANSYS, Inc.",
+    "Market Cap": "24391427859",
+    "Stock Price": "280.14",
+    "% Change": "-2.458",
+    "Revenue": "1995762000"
+  },
+  {
+    "﻿No.": "449",
+    "Symbol": "CCEP",
+    "Company Name": "Coca-Cola Europacific Partners PLC",
+    "Market Cap": "24383557600",
+    "Stock Price": "53.38",
+    "% Change": "1.003",
+    "Revenue": "16973684210"
+  },
+  {
+    "﻿No.": "450",
+    "Symbol": "AEE",
+    "Company Name": "Ameren Corporation",
+    "Market Cap": "24294625224",
+    "Stock Price": "94.03",
+    "% Change": "0.085",
+    "Revenue": "6961000000"
+  },
+  {
+    "﻿No.": "451",
+    "Symbol": "MPWR",
+    "Company Name": "Monolithic Power Systems, Inc.",
+    "Market Cap": "24235296258",
+    "Stock Price": "517.97",
+    "% Change": "-2.639",
+    "Revenue": "1331057000"
+  },
+  {
+    "﻿No.": "452",
+    "Symbol": "ETR",
+    "Company Name": "Entergy Corporation",
+    "Market Cap": "24161990633",
+    "Stock Price": "118.78",
+    "% Change": "0.474",
+    "Revenue": "12349109000"
+  },
+  {
+    "﻿No.": "453",
+    "Symbol": "ZBH",
+    "Company Name": "Zimmer Biomet Holdings, Inc.",
+    "Market Cap": "24129300460",
+    "Stock Price": "115",
+    "% Change": "0.026",
+    "Revenue": "7406900000"
+  },
+  {
+    "﻿No.": "454",
+    "Symbol": "MKC",
+    "Company Name": "McCormick & Company, Inc.",
+    "Market Cap": "24044412869",
+    "Stock Price": "89.63",
+    "% Change": "-0.2",
+    "Revenue": "6338900000"
+  },
+  {
+    "﻿No.": "455",
+    "Symbol": "FTV",
+    "Company Name": "Fortive Corporation",
+    "Market Cap": "23931293689",
+    "Stock Price": "67.28",
+    "% Change": "0.945",
+    "Revenue": "5515600000"
+  },
+  {
+    "﻿No.": "456",
+    "Symbol": "INVH",
+    "Company Name": "Invitation Homes Inc.",
+    "Market Cap": "23835602908",
+    "Stock Price": "38.89",
+    "% Change": "-0.128",
+    "Revenue": "2119367000"
+  },
+  {
+    "﻿No.": "457",
+    "Symbol": "WTW",
+    "Company Name": "Willis Towers Watson PLC",
+    "Market Cap": "23802140483",
+    "Stock Price": "216.45",
+    "% Change": "0.501",
+    "Revenue": "8870000000"
+  },
+  {
+    "﻿No.": "458",
+    "Symbol": "CDW",
+    "Company Name": "CDW Corporation",
+    "Market Cap": "23763550165",
+    "Stock Price": "175.71",
+    "% Change": "-0.17",
+    "Revenue": "22931800000"
+  },
+  {
+    "﻿No.": "459",
+    "Symbol": "IT",
+    "Company Name": "Gartner, Inc.",
+    "Market Cap": "23695742699",
+    "Stock Price": "299.59",
+    "% Change": "-0.27",
+    "Revenue": "5101866000"
+  },
+  {
+    "﻿No.": "460",
+    "Symbol": "SPOT",
+    "Company Name": "Spotify Technology S.A.",
+    "Market Cap": "23645040542",
+    "Stock Price": "122.73",
+    "% Change": "2.198",
+    "Revenue": "11278947368"
+  },
+  {
+    "﻿No.": "461",
+    "Symbol": "CQP",
+    "Company Name": "Cheniere Energy Partners LP",
+    "Market Cap": "23533540496",
+    "Stock Price": "48.62",
+    "% Change": "4.111",
+    "Revenue": "13091000000"
+  },
+  {
+    "﻿No.": "462",
+    "Symbol": "RCI",
+    "Company Name": "Rogers Communications Inc.",
+    "Market Cap": "23451641837",
+    "Stock Price": "45.97",
+    "% Change": "-0.905",
+    "Revenue": "11683720930"
+  },
+  {
+    "﻿No.": "463",
+    "Symbol": "LH",
+    "Company Name": "Laboratory Corporation of America Holdings",
+    "Market Cap": "23390095223",
+    "Stock Price": "258.74",
+    "% Change": "-0.143",
+    "Revenue": "15715200000"
+  },
+  {
+    "﻿No.": "464",
+    "Symbol": "VMC",
+    "Company Name": "Vulcan Materials Company",
+    "Market Cap": "23338743731",
+    "Stock Price": "175.61",
+    "% Change": "0.625",
+    "Revenue": "6617809000"
+  },
+  {
+    "﻿No.": "465",
+    "Symbol": "CTRA",
+    "Company Name": "Coterra Energy Inc.",
+    "Market Cap": "23334801379",
+    "Stock Price": "29.33",
+    "% Change": "3.53",
+    "Revenue": "6915653000"
+  },
+  {
+    "﻿No.": "466",
+    "Symbol": "URI",
+    "Company Name": "United Rentals, Inc.",
+    "Market Cap": "23250548591",
+    "Stock Price": "332.22",
+    "% Change": "1.302",
+    "Revenue": "10667000000"
+  },
+  {
+    "﻿No.": "467",
+    "Symbol": "RJF",
+    "Company Name": "Raymond James Financial, Inc.",
+    "Market Cap": "23188238322",
+    "Stock Price": "107.44",
+    "% Change": "1.301",
+    "Revenue": "10620000000"
+  },
+  {
+    "﻿No.": "468",
+    "Symbol": "LUV",
+    "Company Name": "Southwest Airlines Company",
+    "Market Cap": "23122851838",
+    "Stock Price": "38.97",
+    "% Change": "-0.789",
+    "Revenue": "21152000000"
+  },
+  {
+    "﻿No.": "469",
+    "Symbol": "FANG",
+    "Company Name": "Diamondback Energy, Inc.",
+    "Market Cap": "23029493722",
+    "Stock Price": "132.78",
+    "% Change": "5.348",
+    "Revenue": "9108000000"
+  },
+  {
+    "﻿No.": "470",
+    "Symbol": "FE",
+    "Company Name": "FirstEnergy Corp.",
+    "Market Cap": "22895798251",
+    "Stock Price": "40.07",
+    "% Change": "1.366",
+    "Revenue": "11591000000"
+  },
+  {
+    "﻿No.": "471",
+    "Symbol": "TTM",
+    "Company Name": "Tata Motors Ltd.",
+    "Market Cap": "22794256371",
+    "Stock Price": "29.76",
+    "% Change": "-3.502",
+    "Revenue": "33809692098"
+  },
+  {
+    "﻿No.": "472",
+    "Symbol": "MLM",
+    "Company Name": "Martin Marietta Materials, Inc.",
+    "Market Cap": "22759061243",
+    "Stock Price": "364.88",
+    "% Change": "-0.126",
+    "Revenue": "5926200000"
+  },
+  {
+    "﻿No.": "473",
+    "Symbol": "PAYC",
+    "Company Name": "Paycom Software, Inc.",
+    "Market Cap": "22683938770",
+    "Stock Price": "377.9",
+    "% Change": "0.151",
+    "Revenue": "1211623000"
+  },
+  {
+    "﻿No.": "474",
+    "Symbol": "EC",
+    "Company Name": "Ecopetrol S.A.",
+    "Market Cap": "22593570809",
+    "Stock Price": "10.99",
+    "% Change": "1.759",
+    "Revenue": "22571352347"
+  },
+  {
+    "﻿No.": "475",
+    "Symbol": "ALGN",
+    "Company Name": "Align Technology, Inc.",
+    "Market Cap": "22446735090",
+    "Stock Price": "287.38",
+    "% Change": "-0.149",
+    "Revenue": "3989777000"
+  },
+  {
+    "﻿No.": "476",
+    "Symbol": "FTS",
+    "Company Name": "Fortis Inc.",
+    "Market Cap": "22443524051",
+    "Stock Price": "46.81",
+    "% Change": "-0.868",
+    "Revenue": "7830232558"
+  },
+  {
+    "﻿No.": "477",
+    "Symbol": "ARES",
+    "Company Name": "Ares Management Corporation",
+    "Market Cap": "22403012565",
+    "Stock Price": "74.94",
+    "% Change": "0.402",
+    "Revenue": "3575313000"
+  },
+  {
+    "﻿No.": "478",
+    "Symbol": "LYV",
+    "Company Name": "Live Nation Entertainment, Inc.",
+    "Market Cap": "22176200635",
+    "Stock Price": "96.43",
+    "% Change": "-1.471",
+    "Revenue": "11638874000"
+  },
+  {
+    "﻿No.": "479",
+    "Symbol": "GPC",
+    "Company Name": "Genuine Parts Company",
+    "Market Cap": "22149511102",
+    "Stock Price": "156.61",
+    "% Change": "1.065",
+    "Revenue": "20519107000"
+  },
+  {
+    "﻿No.": "480",
+    "Symbol": "COIN",
+    "Company Name": "Coinbase Global, Inc.",
+    "Market Cap": "21999599580",
+    "Stock Price": "84",
+    "% Change": "-10.771",
+    "Revenue": "5785131000"
+  },
+  {
+    "﻿No.": "481",
+    "Symbol": "HIG",
+    "Company Name": "The Hartford Financial Services Group, Inc.",
+    "Market Cap": "21863790561",
+    "Stock Price": "67.66",
+    "% Change": "1.257",
+    "Revenue": "22268000000"
+  },
+  {
+    "﻿No.": "482",
+    "Symbol": "MAA",
+    "Company Name": "Mid-America Apartment Communities, Inc.",
+    "Market Cap": "21859604434",
+    "Stock Price": "184.25",
+    "% Change": "-0.265",
+    "Revenue": "1887268000"
+  },
+  {
+    "﻿No.": "483",
+    "Symbol": "DAL",
+    "Company Name": "Delta Air Lines, Inc.",
+    "Market Cap": "21775083502",
+    "Stock Price": "33.96",
+    "% Change": "0.088",
+    "Revenue": "41796000000"
+  },
+  {
+    "﻿No.": "484",
+    "Symbol": "PPL",
+    "Company Name": "PPL Corporation",
+    "Market Cap": "21665925109",
+    "Stock Price": "29.43",
+    "% Change": "1.483",
+    "Revenue": "6475000000"
+  },
+  {
+    "﻿No.": "485",
+    "Symbol": "TSCO",
+    "Company Name": "Tractor Supply Company",
+    "Market Cap": "21633898440",
+    "Stock Price": "194.9",
+    "% Change": "1.352",
+    "Revenue": "13264748000"
+  },
+  {
+    "﻿No.": "486",
+    "Symbol": "ZTO",
+    "Company Name": "ZTO Express (Cayman) Inc.",
+    "Market Cap": "21508896767",
+    "Stock Price": "26.07",
+    "% Change": "-0.306",
+    "Revenue": "4974586250"
+  },
+  {
+    "﻿No.": "487",
+    "Symbol": "MT",
+    "Company Name": "ArcelorMittal S.A.",
+    "Market Cap": "21495427062",
+    "Stock Price": "25.39",
+    "% Change": "-1.014",
+    "Revenue": "76571000000"
+  },
+  {
+    "﻿No.": "488",
+    "Symbol": "NTRS",
+    "Company Name": "Northern Trust Corporation",
+    "Market Cap": "21413849044",
+    "Stock Price": "102.76",
+    "% Change": "0.725",
+    "Revenue": "6806200000"
+  },
+  {
+    "﻿No.": "489",
+    "Symbol": "CHD",
+    "Company Name": "Church & Dwight Company, Inc.",
+    "Market Cap": "21276397558",
+    "Stock Price": "87.59",
+    "% Change": "-0.568",
+    "Revenue": "5302400000"
+  },
+  {
+    "﻿No.": "490",
+    "Symbol": "VRSN",
+    "Company Name": "VeriSign, Inc.",
+    "Market Cap": "21164789648",
+    "Stock Price": "197.28",
+    "% Change": "-1.286",
+    "Revenue": "1373350000"
+  },
+  {
+    "﻿No.": "491",
+    "Symbol": "EBR",
+    "Company Name": "Centrais Eletricas Brasileiras S.A.",
+    "Market Cap": "21161385977",
+    "Stock Price": "9.15",
+    "% Change": "-3.277",
+    "Revenue": "6753364631"
+  },
+  {
+    "﻿No.": "492",
+    "Symbol": "RF",
+    "Company Name": "Regions Financial Corporation",
+    "Market Cap": "21154725870",
+    "Stock Price": "22.64",
+    "% Change": "1.89",
+    "Revenue": "6616000000"
+  },
+  {
+    "﻿No.": "493",
+    "Symbol": "SUI",
+    "Company Name": "Sun Communities, Inc.",
+    "Market Cap": "21150609377",
+    "Stock Price": "168.01",
+    "% Change": "-0.633",
+    "Revenue": "2589527000"
+  },
+  {
+    "﻿No.": "494",
+    "Symbol": "STE",
+    "Company Name": "Steris PLC",
+    "Market Cap": "21037817851",
+    "Stock Price": "210.21",
+    "% Change": "-0.024",
+    "Revenue": "4585064000"
+  },
+  {
+    "﻿No.": "495",
+    "Symbol": "XPEV",
+    "Company Name": "XPeng Inc.",
+    "Market Cap": "21035988976",
+    "Stock Price": "24.61",
+    "% Change": "7.467",
+    "Revenue": "3983147343"
+  },
+  {
+    "﻿No.": "496",
+    "Symbol": "PSNY",
+    "Company Name": "Polestar Automotive Holding UK PLC",
+    "Market Cap": "21026080767",
+    "Stock Price": "9.94",
+    "% Change": "3.758",
+    "Revenue": "1337181000"
+  },
+  {
+    "﻿No.": "497",
+    "Symbol": "IR",
+    "Company Name": "Ingersoll Rand Inc.",
+    "Market Cap": "20908965882",
+    "Stock Price": "51.86",
+    "% Change": "1.072",
+    "Revenue": "5520700000"
+  },
+  {
+    "﻿No.": "498",
+    "Symbol": "PBA",
+    "Company Name": "Pembina Pipeline Corp.",
+    "Market Cap": "20887861215",
+    "Stock Price": "37.59",
+    "% Change": "1.321",
+    "Revenue": "8404651162"
+  },
+  {
+    "﻿No.": "499",
+    "Symbol": "RKT",
+    "Company Name": "Rocket Companies, Inc.",
+    "Market Cap": "20846776318",
+    "Stock Price": "10.49",
+    "% Change": "1.06",
+    "Revenue": "9770512000"
+  },
+  {
+    "﻿No.": "500",
+    "Symbol": "VTR",
+    "Company Name": "Ventas, Inc.",
+    "Market Cap": "20605204479",
+    "Stock Price": "51.55",
+    "% Change": "0.097",
+    "Revenue": "4039014000"
+  }
+]
